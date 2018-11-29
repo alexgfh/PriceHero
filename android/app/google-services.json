@@ -1,0 +1,42 @@
+{
+  "project_info": {
+    "project_number": "705171194170",
+    "firebase_url": "https://pricehero-7686f.firebaseio.com",
+    "project_id": "pricehero-7686f",
+    "storage_bucket": "pricehero-7686f.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:705171194170:android:621fb2c5fccd9092",
+        "android_client_info": {
+          "package_name": "com.medtechbr.pricehero"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "705171194170-obdc3kqk0cuenourf2d6n537rg1f9mcu.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDujv2kMr4OHukUSPJS68kL7d_qwJqYDws"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 1,
+          "other_platform_oauth_client": []
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
