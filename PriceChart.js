@@ -11,7 +11,7 @@ class PriceChart extends React.Component {
 	
 	constructor(props) {
 		super(props);
-		this.state = {chart_data: [], counter: 0};
+		this.state = {chart_data: [], counter: 0, cheapest_index: -1, cheapest_value: Infinity, cheapest_merchant: null};
 	}
 
 	componentDidMount() {
@@ -23,12 +23,18 @@ class PriceChart extends React.Component {
 			
 			let receipt = snapshot.toJSON();
 			self.setState(function(previousState) {
-				let new_state = previousState;
 				let data_point = {
 					y: receipt.unitPriceIncVAT,
 					x: Date.parse(receipt.receiptTimeStamp)
 				};
-				console.warn(data_point.x);
+				
+				let new_state = previousState;
+				if (data_point.y < previousState.cheapest_value) {
+					new_state.cheapest_index = previousState.counter;
+					new_state.cheapest_value = data_point.y;
+					new_state.cheapest_merchant = receipt?.merchant?.name;
+				}
+				
 				new_state.chart_data.push(data_point);
 				new_state.counter++;
 				return new_state;
@@ -45,8 +51,9 @@ class PriceChart extends React.Component {
 	}
 
     render() {
-
+		let params = this.props.navigation.state.params;
         return (
+        <View>
         <View style={{ height: 200, flexDirection: 'row' }}>
 			<YAxis
               contentInset={{ top: 20, bottom: 20 }}
@@ -70,10 +77,18 @@ class PriceChart extends React.Component {
             >
                 <Grid/>
             </LineChart>
+            
+		</View>
+		<ListItem
+        leftAvatar={{ source: { uri: params.avatar }, size:'large' }}
+        title={params.name}
+        subtitle={'BEST DEAL: '+ this.state.cheapest_merchant}
+        onPress={()=>this.props.navigation.navigate('SaleInfo', {params})}
+      />
         </View>
         )
     }
 
 }
 
-export default PriceChart;
+export default withNavigation(PriceChart);
