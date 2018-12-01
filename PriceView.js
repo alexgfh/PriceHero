@@ -10,7 +10,7 @@ import PriceChart from './PriceChart.js'
 class PriceView extends React.Component {
 
   render() {
-	  let params = this.props.navigation.state.params;
+	let params = this.props.navigation.state.params;
     return (
     <View>
       <PriceChart EAN={params.EAN} avatar={params.avatar} name={params.name}/>

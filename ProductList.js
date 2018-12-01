@@ -11,7 +11,7 @@ const products = [
  {
 	EAN: '300450288080',
     name: 'Plasma TV',
-    avatar: 'https://images.barcodelookup.com/6000/60002272-1.jpg'
+    avatar: 'https://www.gigantti.fi/image/dv_web_D18000100289561/32PHT4503/philips-32-hd-ready-led-tv-32pht4503.jpg'
  },
  {
 	EAN: '300450288080',

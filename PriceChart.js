@@ -77,6 +77,7 @@ class PriceChart extends React.Component {
               contentInset={{ top: 20, bottom: 20 }}
               yAccessor={({item,index})=>item.y}
               xAccessor={({item,index})=>item.x}
+              animate
             >
              <Grid/>
             </LineChart>
