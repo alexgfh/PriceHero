@@ -29,17 +29,30 @@ const StackNavigator = createStackNavigator({
 	  screen: ProductList,
 	  
 	  navigationOptions: ({ navigation }) => ({
-		title: 'Product List'
+		title: 'Product List',
+		headerStyle: {
+			backgroundColor: '#11aa11',
+		},
+		headerTintColor: '#ffffff'
 	  })
    },
   Price: { screen: PriceView,
 	  
 	  navigationOptions: ({ navigation }) => ({
-		title: `${navigation.state.params.name} 💲`
+		title: `${navigation.state.params.name}`,
+		headerStyle: {
+			backgroundColor: '#11aa11',
+		},
+		headerTintColor: '#ffffff'
 	  }) },
+	  
   SaleInfo: { screen: SaleInfo,
 	  navigationOptions: ({ navigation }) => ({
-		title: `SHOP NOW!`
+		title: 'SHOP NOW!',
+		headerStyle: {
+			backgroundColor: '#11aa11',
+		},
+		headerTintColor: '#ffffff'
 	  }) },
 },
 {

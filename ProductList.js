@@ -29,7 +29,7 @@ class ProductList extends React.Component {
 
   render() {
     return (
-    <View>
+    <View style={{backgroundColor:'green'}}>
 	  {
 		products.map((l, i) => (
 		  <ListItem

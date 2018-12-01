@@ -8,8 +8,7 @@ import firebase from 'react-native-firebase';
 import PriceChart from './PriceChart.js'
 
 class PriceView extends React.Component {
-	
-	
+
   render() {
 	  let params = this.props.navigation.state.params;
     return (

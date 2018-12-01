@@ -24,13 +24,13 @@ class SaleInfo extends React.Component {
 			justifyContent: 'center',
 			alignItems: 'stretch',
 		}}>
-		<View style={{flex: 0.5, backgroundColor: 'powderblue'}}>
+		<View style={{flex: 0.5}}>
 		  <View style={{flex: 1, flexDirection: 'row', backgroundColor: 'powderblue', alignItems: 'center'}}>
 			<Image
 			  style={{width: 80, height: 80}}
 			  source={{uri: params.listParams.avatar}}
 			/>
-			<View style={{flex: 1, flexDirection: 'column', backgroundColor: 'powderblue', justifyContent: 'flex-start', alignItems: 'flex-start'}}>
+			<View style={{flex: 1, flexDirection: 'column', justifyContent: 'flex-start', alignItems: 'flex-start'}}>
 			  <Text style={{fontSize: 18, fontWeight: 'bold'}}>
 			    {params.merchant.name}
 			  </Text>
