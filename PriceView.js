@@ -19,7 +19,7 @@ class PriceView extends React.Component {
         title={params.name}
         onPress={()=>this.props.navigation.navigate('SaleInfo', {params})}
       />
-      <PriceChart/>
+      <PriceChart EAN={params.EAN}/>
       
 	</View>
     )

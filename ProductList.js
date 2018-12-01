@@ -9,17 +9,17 @@ const database = firebase.database();
 
 const products = [
  {
-	EAN: '741414744622',
+	EAN: '300450288080',
     name: 'Plasma TV',
     avatar: 'https://images.barcodelookup.com/6000/60002272-1.jpg'
  },
  {
-	EAN: '6921815603627',
+	EAN: '300450288080',
     name: 'One Plus 5',
     avatar: 'https://images.barcodelookup.com/8662/86625814-1.jpg'
  },
  {
-	EAN: '617529207942',
+	EAN: '300450288080',
     name: 'Nikon L320',
     avatar: 'https://images.barcodelookup.com/219/2194269-1.jpg'
  },
@@ -36,7 +36,7 @@ class ProductList extends React.Component {
 			key={i}
 			leftAvatar={{ source: { uri: l.avatar }, size:'large' }}
 			title={l.name}
-			onPress={()=>this.props.navigation.navigate('Price', {productSelected: l.EAN, name: l.name, avatar:l.avatar})}
+			onPress={()=>this.props.navigation.navigate('Price', {EAN: l.EAN, name: l.name, avatar:l.avatar})}
 		  />
 		))
 	  }

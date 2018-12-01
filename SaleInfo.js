@@ -16,21 +16,13 @@ class SaleInfo extends React.Component {
 	}
 
 	componentDidMount() {
-		const EAN = '745129168636';
-		const TAN = '55342343';
-		this.setState({data: {'e':'r'}});
-		this.setState(function(previousState){
-				let new_state = previousState;
-				new_state.data[EAN]='heyo';
-				return new_state;
-				
-			});
+		const EAN = '300450288080';
 		let self = this;
-		database.ref('products/'+EAN).once('value')
-		.then(function(snapshot) {
+		const productsRef = database.ref('products/');
+		
+		productsRef.child(EAN).on('value', function(snapshot) {
 			let receipt = snapshot.val();
 			
-			console.warn('databased');
 			self.setState(function(previousState){
 				let new_state = previousState;
 				new_state.data['q'] = receipt;
@@ -45,7 +37,7 @@ class SaleInfo extends React.Component {
 		return (
 		<View>
 		  <Text>
-			{this.state.data['q'].name}
+			{JSON.stringify(this.state.data['q'])}
 		  </Text>      
 		</View>
 		)
