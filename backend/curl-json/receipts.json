@@ -1,0 +1,907 @@
+{
+  "count": 3034,
+  "next": "https://api.dev.receipthero.io/api/v1/users/92/receipts/?page=2",
+  "previous": null,
+  "results": [
+    {
+      "uuid": "afb2d159-81ef-4072-a9b8-da5f7fe384f6",
+      "date": "2018-03-20T06:46:33.608000Z",
+      "price": 73460,
+      "finvoice_xml_url": "https://api.dev.receipthero.io/api/v1/receipts/afb2d159-81ef-4072-a9b8-da5f7fe384f6/finvoice_xml/",
+      "finvoice_pdf_url": "https://api.dev.receipthero.io/api/v1/receipts/afb2d159-81ef-4072-a9b8-da5f7fe384f6/finvoice_pdf/",
+      "hero_json_url": "https://api.dev.receipthero.io/api/v1/receipts/afb2d159-81ef-4072-a9b8-da5f7fe384f6/hero_json/",
+      "hero_pdf_url": "https://api.dev.receipthero.io/api/v1/receipts/afb2d159-81ef-4072-a9b8-da5f7fe384f6/hero_pdf/"
+    },
+    {
+      "uuid": "c39dc9ff-b3dc-4a40-9441-dce641535fae",
+      "date": "2018-06-21T18:21:03.886000Z",
+      "price": 54860,
+      "finvoice_xml_url": "https://api.dev.receipthero.io/api/v1/receipts/c39dc9ff-b3dc-4a40-9441-dce641535fae/finvoice_xml/",
+      "finvoice_pdf_url": "https://api.dev.receipthero.io/api/v1/receipts/c39dc9ff-b3dc-4a40-9441-dce641535fae/finvoice_pdf/",
+      "hero_json_url": "https://api.dev.receipthero.io/api/v1/receipts/c39dc9ff-b3dc-4a40-9441-dce641535fae/hero_json/",
+      "hero_pdf_url": "https://api.dev.receipthero.io/api/v1/receipts/c39dc9ff-b3dc-4a40-9441-dce641535fae/hero_pdf/"
+    },
+    {
+      "uuid": "6a3c63c7-cd01-456a-a7c2-b6c95e6ba191",
+      "date": "2018-03-09T22:52:28.673000Z",
+      "price": 100210,
+      "finvoice_xml_url": "https://api.dev.receipthero.io/api/v1/receipts/6a3c63c7-cd01-456a-a7c2-b6c95e6ba191/finvoice_xml/",
+      "finvoice_pdf_url": "https://api.dev.receipthero.io/api/v1/receipts/6a3c63c7-cd01-456a-a7c2-b6c95e6ba191/finvoice_pdf/",
+      "hero_json_url": "https://api.dev.receipthero.io/api/v1/receipts/6a3c63c7-cd01-456a-a7c2-b6c95e6ba191/hero_json/",
+      "hero_pdf_url": "https://api.dev.receipthero.io/api/v1/receipts/6a3c63c7-cd01-456a-a7c2-b6c95e6ba191/hero_pdf/"
+    },
+    {
+      "uuid": "d4d8593b-9c79-43d6-a7b9-7b06090c2fb8",
+      "date": "2018-10-31T15:49:18.519000Z",
+      "price": 61630,
+      "finvoice_xml_url": "https://api.dev.receipthero.io/api/v1/receipts/d4d8593b-9c79-43d6-a7b9-7b06090c2fb8/finvoice_xml/",
+      "finvoice_pdf_url": "https://api.dev.receipthero.io/api/v1/receipts/d4d8593b-9c79-43d6-a7b9-7b06090c2fb8/finvoice_pdf/",
+      "hero_json_url": "https://api.dev.receipthero.io/api/v1/receipts/d4d8593b-9c79-43d6-a7b9-7b06090c2fb8/hero_json/",
+      "hero_pdf_url": "https://api.dev.receipthero.io/api/v1/receipts/d4d8593b-9c79-43d6-a7b9-7b06090c2fb8/hero_pdf/"
+    },
+    {
+      "uuid": "6feffc46-0be2-4d75-9dde-5131139fcdbd",
+      "date": "2018-06-15T01:59:26.079000Z",
+      "price": 61530,
+      "finvoice_xml_url": "https://api.dev.receipthero.io/api/v1/receipts/6feffc46-0be2-4d75-9dde-5131139fcdbd/finvoice_xml/",
+      "finvoice_pdf_url": "https://api.dev.receipthero.io/api/v1/receipts/6feffc46-0be2-4d75-9dde-5131139fcdbd/finvoice_pdf/",
+      "hero_json_url": "https://api.dev.receipthero.io/api/v1/receipts/6feffc46-0be2-4d75-9dde-5131139fcdbd/hero_json/",
+      "hero_pdf_url": "https://api.dev.receipthero.io/api/v1/receipts/6feffc46-0be2-4d75-9dde-5131139fcdbd/hero_pdf/"
+    },
+    {
+      "uuid": "105ec785-3fb2-4bd0-a9e2-a98bbe97f8c3",
+      "date": "2018-03-31T05:41:43.832000Z",
+      "price": 48360,
+      "finvoice_xml_url": "https://api.dev.receipthero.io/api/v1/receipts/105ec785-3fb2-4bd0-a9e2-a98bbe97f8c3/finvoice_xml/",
+      "finvoice_pdf_url": "https://api.dev.receipthero.io/api/v1/receipts/105ec785-3fb2-4bd0-a9e2-a98bbe97f8c3/finvoice_pdf/",
+      "hero_json_url": "https://api.dev.receipthero.io/api/v1/receipts/105ec785-3fb2-4bd0-a9e2-a98bbe97f8c3/hero_json/",
+      "hero_pdf_url": "https://api.dev.receipthero.io/api/v1/receipts/105ec785-3fb2-4bd0-a9e2-a98bbe97f8c3/hero_pdf/"
+    },
+    {
+      "uuid": "65e02034-afdd-4b44-9e85-7ca5cdb534ad",
+      "date": "2018-06-19T21:16:37.388000Z",
+      "price": 13940,
+      "finvoice_xml_url": "https://api.dev.receipthero.io/api/v1/receipts/65e02034-afdd-4b44-9e85-7ca5cdb534ad/finvoice_xml/",
+      "finvoice_pdf_url": "https://api.dev.receipthero.io/api/v1/receipts/65e02034-afdd-4b44-9e85-7ca5cdb534ad/finvoice_pdf/",
+      "hero_json_url": "https://api.dev.receipthero.io/api/v1/receipts/65e02034-afdd-4b44-9e85-7ca5cdb534ad/hero_json/",
+      "hero_pdf_url": "https://api.dev.receipthero.io/api/v1/receipts/65e02034-afdd-4b44-9e85-7ca5cdb534ad/hero_pdf/"
+    },
+    {
+      "uuid": "a7398339-3c52-456f-8828-ea5f70a99aad",
+      "date": "2018-11-22T03:50:19.362000Z",
+      "price": 24730,
+      "finvoice_xml_url": "https://api.dev.receipthero.io/api/v1/receipts/a7398339-3c52-456f-8828-ea5f70a99aad/finvoice_xml/",
+      "finvoice_pdf_url": "https://api.dev.receipthero.io/api/v1/receipts/a7398339-3c52-456f-8828-ea5f70a99aad/finvoice_pdf/",
+      "hero_json_url": "https://api.dev.receipthero.io/api/v1/receipts/a7398339-3c52-456f-8828-ea5f70a99aad/hero_json/",
+      "hero_pdf_url": "https://api.dev.receipthero.io/api/v1/receipts/a7398339-3c52-456f-8828-ea5f70a99aad/hero_pdf/"
+    },
+    {
+      "uuid": "005097f1-53c6-45ce-8736-dd55a5b80c23",
+      "date": "2018-11-21T08:06:42.643000Z",
+      "price": 22760,
+      "finvoice_xml_url": "https://api.dev.receipthero.io/api/v1/receipts/005097f1-53c6-45ce-8736-dd55a5b80c23/finvoice_xml/",
+      "finvoice_pdf_url": "https://api.dev.receipthero.io/api/v1/receipts/005097f1-53c6-45ce-8736-dd55a5b80c23/finvoice_pdf/",
+      "hero_json_url": "https://api.dev.receipthero.io/api/v1/receipts/005097f1-53c6-45ce-8736-dd55a5b80c23/hero_json/",
+      "hero_pdf_url": "https://api.dev.receipthero.io/api/v1/receipts/005097f1-53c6-45ce-8736-dd55a5b80c23/hero_pdf/"
+    },
+    {
+      "uuid": "b96c5c33-4c3c-45c0-83ee-e7251ef36a9e",
+      "date": "2018-11-26T05:53:32.350000Z",
+      "price": 40630,
+      "finvoice_xml_url": "https://api.dev.receipthero.io/api/v1/receipts/b96c5c33-4c3c-45c0-83ee-e7251ef36a9e/finvoice_xml/",
+      "finvoice_pdf_url": "https://api.dev.receipthero.io/api/v1/receipts/b96c5c33-4c3c-45c0-83ee-e7251ef36a9e/finvoice_pdf/",
+      "hero_json_url": "https://api.dev.receipthero.io/api/v1/receipts/b96c5c33-4c3c-45c0-83ee-e7251ef36a9e/hero_json/",
+      "hero_pdf_url": "https://api.dev.receipthero.io/api/v1/receipts/b96c5c33-4c3c-45c0-83ee-e7251ef36a9e/hero_pdf/"
+    },
+    {
+      "uuid": "bfce2ec6-025d-40c4-b7ab-5161dc54d0cb",
+      "date": "2018-03-08T00:12:10.477000Z",
+      "price": 40800,
+      "finvoice_xml_url": "https://api.dev.receipthero.io/api/v1/receipts/bfce2ec6-025d-40c4-b7ab-5161dc54d0cb/finvoice_xml/",
+      "finvoice_pdf_url": "https://api.dev.receipthero.io/api/v1/receipts/bfce2ec6-025d-40c4-b7ab-5161dc54d0cb/finvoice_pdf/",
+      "hero_json_url": "https://api.dev.receipthero.io/api/v1/receipts/bfce2ec6-025d-40c4-b7ab-5161dc54d0cb/hero_json/",
+      "hero_pdf_url": "https://api.dev.receipthero.io/api/v1/receipts/bfce2ec6-025d-40c4-b7ab-5161dc54d0cb/hero_pdf/"
+    },
+    {
+      "uuid": "9c327100-a3ca-486f-9bca-fb104372c248",
+      "date": "2018-08-02T19:23:35.046000Z",
+      "price": 49850,
+      "finvoice_xml_url": "https://api.dev.receipthero.io/api/v1/receipts/9c327100-a3ca-486f-9bca-fb104372c248/finvoice_xml/",
+      "finvoice_pdf_url": "https://api.dev.receipthero.io/api/v1/receipts/9c327100-a3ca-486f-9bca-fb104372c248/finvoice_pdf/",
+      "hero_json_url": "https://api.dev.receipthero.io/api/v1/receipts/9c327100-a3ca-486f-9bca-fb104372c248/hero_json/",
+      "hero_pdf_url": "https://api.dev.receipthero.io/api/v1/receipts/9c327100-a3ca-486f-9bca-fb104372c248/hero_pdf/"
+    },
+    {
+      "uuid": "48f20be4-48fe-4094-ba87-d84403191081",
+      "date": "2018-04-05T12:55:44.324000Z",
+      "price": 39230,
+      "finvoice_xml_url": "https://api.dev.receipthero.io/api/v1/receipts/48f20be4-48fe-4094-ba87-d84403191081/finvoice_xml/",
+      "finvoice_pdf_url": "https://api.dev.receipthero.io/api/v1/receipts/48f20be4-48fe-4094-ba87-d84403191081/finvoice_pdf/",
+      "hero_json_url": "https://api.dev.receipthero.io/api/v1/receipts/48f20be4-48fe-4094-ba87-d84403191081/hero_json/",
+      "hero_pdf_url": "https://api.dev.receipthero.io/api/v1/receipts/48f20be4-48fe-4094-ba87-d84403191081/hero_pdf/"
+    },
+    {
+      "uuid": "2a69d35e-f8ae-4769-83f1-0567f2f6b84d",
+      "date": "2018-10-20T21:49:55.528000Z",
+      "price": 7080,
+      "finvoice_xml_url": "https://api.dev.receipthero.io/api/v1/receipts/2a69d35e-f8ae-4769-83f1-0567f2f6b84d/finvoice_xml/",
+      "finvoice_pdf_url": "https://api.dev.receipthero.io/api/v1/receipts/2a69d35e-f8ae-4769-83f1-0567f2f6b84d/finvoice_pdf/",
+      "hero_json_url": "https://api.dev.receipthero.io/api/v1/receipts/2a69d35e-f8ae-4769-83f1-0567f2f6b84d/hero_json/",
+      "hero_pdf_url": "https://api.dev.receipthero.io/api/v1/receipts/2a69d35e-f8ae-4769-83f1-0567f2f6b84d/hero_pdf/"
+    },
+    {
+      "uuid": "853e011f-7abb-4530-8b94-abdbeb9d2432",
+      "date": "2018-02-24T18:23:56.467000Z",
+      "price": 10540,
+      "finvoice_xml_url": "https://api.dev.receipthero.io/api/v1/receipts/853e011f-7abb-4530-8b94-abdbeb9d2432/finvoice_xml/",
+      "finvoice_pdf_url": "https://api.dev.receipthero.io/api/v1/receipts/853e011f-7abb-4530-8b94-abdbeb9d2432/finvoice_pdf/",
+      "hero_json_url": "https://api.dev.receipthero.io/api/v1/receipts/853e011f-7abb-4530-8b94-abdbeb9d2432/hero_json/",
+      "hero_pdf_url": "https://api.dev.receipthero.io/api/v1/receipts/853e011f-7abb-4530-8b94-abdbeb9d2432/hero_pdf/"
+    },
+    {
+      "uuid": "f6d88d4e-ef98-45fb-963b-be4df0b03da8",
+      "date": "2018-08-27T03:42:47.247000Z",
+      "price": 61540,
+      "finvoice_xml_url": "https://api.dev.receipthero.io/api/v1/receipts/f6d88d4e-ef98-45fb-963b-be4df0b03da8/finvoice_xml/",
+      "finvoice_pdf_url": "https://api.dev.receipthero.io/api/v1/receipts/f6d88d4e-ef98-45fb-963b-be4df0b03da8/finvoice_pdf/",
+      "hero_json_url": "https://api.dev.receipthero.io/api/v1/receipts/f6d88d4e-ef98-45fb-963b-be4df0b03da8/hero_json/",
+      "hero_pdf_url": "https://api.dev.receipthero.io/api/v1/receipts/f6d88d4e-ef98-45fb-963b-be4df0b03da8/hero_pdf/"
+    },
+    {
+      "uuid": "bfc303a4-e96d-46b5-8582-1138e16f0000",
+      "date": "2018-01-06T14:22:40.525000Z",
+      "price": 7060,
+      "finvoice_xml_url": "https://api.dev.receipthero.io/api/v1/receipts/bfc303a4-e96d-46b5-8582-1138e16f0000/finvoice_xml/",
+      "finvoice_pdf_url": "https://api.dev.receipthero.io/api/v1/receipts/bfc303a4-e96d-46b5-8582-1138e16f0000/finvoice_pdf/",
+      "hero_json_url": "https://api.dev.receipthero.io/api/v1/receipts/bfc303a4-e96d-46b5-8582-1138e16f0000/hero_json/",
+      "hero_pdf_url": "https://api.dev.receipthero.io/api/v1/receipts/bfc303a4-e96d-46b5-8582-1138e16f0000/hero_pdf/"
+    },
+    {
+      "uuid": "d900df35-cc69-47d6-8bf3-47ffe4688d91",
+      "date": "2018-08-21T23:23:32.014000Z",
+      "price": 18220,
+      "finvoice_xml_url": "https://api.dev.receipthero.io/api/v1/receipts/d900df35-cc69-47d6-8bf3-47ffe4688d91/finvoice_xml/",
+      "finvoice_pdf_url": "https://api.dev.receipthero.io/api/v1/receipts/d900df35-cc69-47d6-8bf3-47ffe4688d91/finvoice_pdf/",
+      "hero_json_url": "https://api.dev.receipthero.io/api/v1/receipts/d900df35-cc69-47d6-8bf3-47ffe4688d91/hero_json/",
+      "hero_pdf_url": "https://api.dev.receipthero.io/api/v1/receipts/d900df35-cc69-47d6-8bf3-47ffe4688d91/hero_pdf/"
+    },
+    {
+      "uuid": "3f33fc98-4abc-4dfa-a023-861f90ce047c",
+      "date": "2018-05-01T00:37:49.589000Z",
+      "price": 38200,
+      "finvoice_xml_url": "https://api.dev.receipthero.io/api/v1/receipts/3f33fc98-4abc-4dfa-a023-861f90ce047c/finvoice_xml/",
+      "finvoice_pdf_url": "https://api.dev.receipthero.io/api/v1/receipts/3f33fc98-4abc-4dfa-a023-861f90ce047c/finvoice_pdf/",
+      "hero_json_url": "https://api.dev.receipthero.io/api/v1/receipts/3f33fc98-4abc-4dfa-a023-861f90ce047c/hero_json/",
+      "hero_pdf_url": "https://api.dev.receipthero.io/api/v1/receipts/3f33fc98-4abc-4dfa-a023-861f90ce047c/hero_pdf/"
+    },
+    {
+      "uuid": "39f1db07-46c7-4a5d-a4e0-66fcc5c56c95",
+      "date": "2018-02-06T02:07:58.354000Z",
+      "price": 18260,
+      "finvoice_xml_url": "https://api.dev.receipthero.io/api/v1/receipts/39f1db07-46c7-4a5d-a4e0-66fcc5c56c95/finvoice_xml/",
+      "finvoice_pdf_url": "https://api.dev.receipthero.io/api/v1/receipts/39f1db07-46c7-4a5d-a4e0-66fcc5c56c95/finvoice_pdf/",
+      "hero_json_url": "https://api.dev.receipthero.io/api/v1/receipts/39f1db07-46c7-4a5d-a4e0-66fcc5c56c95/hero_json/",
+      "hero_pdf_url": "https://api.dev.receipthero.io/api/v1/receipts/39f1db07-46c7-4a5d-a4e0-66fcc5c56c95/hero_pdf/"
+    },
+    {
+      "uuid": "f261fd43-1ca6-4582-af02-cf3233f5a115",
+      "date": "2018-04-04T16:25:27.306000Z",
+      "price": 47970,
+      "finvoice_xml_url": "https://api.dev.receipthero.io/api/v1/receipts/f261fd43-1ca6-4582-af02-cf3233f5a115/finvoice_xml/",
+      "finvoice_pdf_url": "https://api.dev.receipthero.io/api/v1/receipts/f261fd43-1ca6-4582-af02-cf3233f5a115/finvoice_pdf/",
+      "hero_json_url": "https://api.dev.receipthero.io/api/v1/receipts/f261fd43-1ca6-4582-af02-cf3233f5a115/hero_json/",
+      "hero_pdf_url": "https://api.dev.receipthero.io/api/v1/receipts/f261fd43-1ca6-4582-af02-cf3233f5a115/hero_pdf/"
+    },
+    {
+      "uuid": "20c24264-689b-4a99-9ec3-5f02b3938ec5",
+      "date": "2018-02-12T23:47:57.845000Z",
+      "price": 12060,
+      "finvoice_xml_url": "https://api.dev.receipthero.io/api/v1/receipts/20c24264-689b-4a99-9ec3-5f02b3938ec5/finvoice_xml/",
+      "finvoice_pdf_url": "https://api.dev.receipthero.io/api/v1/receipts/20c24264-689b-4a99-9ec3-5f02b3938ec5/finvoice_pdf/",
+      "hero_json_url": "https://api.dev.receipthero.io/api/v1/receipts/20c24264-689b-4a99-9ec3-5f02b3938ec5/hero_json/",
+      "hero_pdf_url": "https://api.dev.receipthero.io/api/v1/receipts/20c24264-689b-4a99-9ec3-5f02b3938ec5/hero_pdf/"
+    },
+    {
+      "uuid": "1ace6bdc-e98c-4ac2-b31c-634da9942d71",
+      "date": "2018-09-26T15:26:19.301000Z",
+      "price": 17800,
+      "finvoice_xml_url": "https://api.dev.receipthero.io/api/v1/receipts/1ace6bdc-e98c-4ac2-b31c-634da9942d71/finvoice_xml/",
+      "finvoice_pdf_url": "https://api.dev.receipthero.io/api/v1/receipts/1ace6bdc-e98c-4ac2-b31c-634da9942d71/finvoice_pdf/",
+      "hero_json_url": "https://api.dev.receipthero.io/api/v1/receipts/1ace6bdc-e98c-4ac2-b31c-634da9942d71/hero_json/",
+      "hero_pdf_url": "https://api.dev.receipthero.io/api/v1/receipts/1ace6bdc-e98c-4ac2-b31c-634da9942d71/hero_pdf/"
+    },
+    {
+      "uuid": "cfe4143f-9e97-4d3a-8424-ed3b0e93626e",
+      "date": "2018-03-31T07:17:38.729000Z",
+      "price": 47330,
+      "finvoice_xml_url": "https://api.dev.receipthero.io/api/v1/receipts/cfe4143f-9e97-4d3a-8424-ed3b0e93626e/finvoice_xml/",
+      "finvoice_pdf_url": "https://api.dev.receipthero.io/api/v1/receipts/cfe4143f-9e97-4d3a-8424-ed3b0e93626e/finvoice_pdf/",
+      "hero_json_url": "https://api.dev.receipthero.io/api/v1/receipts/cfe4143f-9e97-4d3a-8424-ed3b0e93626e/hero_json/",
+      "hero_pdf_url": "https://api.dev.receipthero.io/api/v1/receipts/cfe4143f-9e97-4d3a-8424-ed3b0e93626e/hero_pdf/"
+    },
+    {
+      "uuid": "174024a2-b0f4-4804-8301-0e87c8d623dc",
+      "date": "2018-06-14T09:01:07.126000Z",
+      "price": 92800,
+      "finvoice_xml_url": "https://api.dev.receipthero.io/api/v1/receipts/174024a2-b0f4-4804-8301-0e87c8d623dc/finvoice_xml/",
+      "finvoice_pdf_url": "https://api.dev.receipthero.io/api/v1/receipts/174024a2-b0f4-4804-8301-0e87c8d623dc/finvoice_pdf/",
+      "hero_json_url": "https://api.dev.receipthero.io/api/v1/receipts/174024a2-b0f4-4804-8301-0e87c8d623dc/hero_json/",
+      "hero_pdf_url": "https://api.dev.receipthero.io/api/v1/receipts/174024a2-b0f4-4804-8301-0e87c8d623dc/hero_pdf/"
+    },
+    {
+      "uuid": "b9b028df-c359-4986-9b57-f35946ff8e9b",
+      "date": "2018-06-26T11:46:42.984000Z",
+      "price": 5270,
+      "finvoice_xml_url": "https://api.dev.receipthero.io/api/v1/receipts/b9b028df-c359-4986-9b57-f35946ff8e9b/finvoice_xml/",
+      "finvoice_pdf_url": "https://api.dev.receipthero.io/api/v1/receipts/b9b028df-c359-4986-9b57-f35946ff8e9b/finvoice_pdf/",
+      "hero_json_url": "https://api.dev.receipthero.io/api/v1/receipts/b9b028df-c359-4986-9b57-f35946ff8e9b/hero_json/",
+      "hero_pdf_url": "https://api.dev.receipthero.io/api/v1/receipts/b9b028df-c359-4986-9b57-f35946ff8e9b/hero_pdf/"
+    },
+    {
+      "uuid": "3a871b7e-7eca-4197-8e71-0b8064a15528",
+      "date": "2018-06-23T19:59:09.064000Z",
+      "price": 51070,
+      "finvoice_xml_url": "https://api.dev.receipthero.io/api/v1/receipts/3a871b7e-7eca-4197-8e71-0b8064a15528/finvoice_xml/",
+      "finvoice_pdf_url": "https://api.dev.receipthero.io/api/v1/receipts/3a871b7e-7eca-4197-8e71-0b8064a15528/finvoice_pdf/",
+      "hero_json_url": "https://api.dev.receipthero.io/api/v1/receipts/3a871b7e-7eca-4197-8e71-0b8064a15528/hero_json/",
+      "hero_pdf_url": "https://api.dev.receipthero.io/api/v1/receipts/3a871b7e-7eca-4197-8e71-0b8064a15528/hero_pdf/"
+    },
+    {
+      "uuid": "9f2cafe9-e801-43dd-afe5-3cdbae2410d1",
+      "date": "2018-07-10T06:02:04.524000Z",
+      "price": 19530,
+      "finvoice_xml_url": "https://api.dev.receipthero.io/api/v1/receipts/9f2cafe9-e801-43dd-afe5-3cdbae2410d1/finvoice_xml/",
+      "finvoice_pdf_url": "https://api.dev.receipthero.io/api/v1/receipts/9f2cafe9-e801-43dd-afe5-3cdbae2410d1/finvoice_pdf/",
+      "hero_json_url": "https://api.dev.receipthero.io/api/v1/receipts/9f2cafe9-e801-43dd-afe5-3cdbae2410d1/hero_json/",
+      "hero_pdf_url": "https://api.dev.receipthero.io/api/v1/receipts/9f2cafe9-e801-43dd-afe5-3cdbae2410d1/hero_pdf/"
+    },
+    {
+      "uuid": "8f621469-3ebb-4149-8d7d-3177b57b171d",
+      "date": "2018-07-03T05:20:01.387000Z",
+      "price": 53200,
+      "finvoice_xml_url": "https://api.dev.receipthero.io/api/v1/receipts/8f621469-3ebb-4149-8d7d-3177b57b171d/finvoice_xml/",
+      "finvoice_pdf_url": "https://api.dev.receipthero.io/api/v1/receipts/8f621469-3ebb-4149-8d7d-3177b57b171d/finvoice_pdf/",
+      "hero_json_url": "https://api.dev.receipthero.io/api/v1/receipts/8f621469-3ebb-4149-8d7d-3177b57b171d/hero_json/",
+      "hero_pdf_url": "https://api.dev.receipthero.io/api/v1/receipts/8f621469-3ebb-4149-8d7d-3177b57b171d/hero_pdf/"
+    },
+    {
+      "uuid": "5de9f8fc-adf1-438c-b7d9-724423dcec67",
+      "date": "2018-09-22T03:13:29.742000Z",
+      "price": 6260,
+      "finvoice_xml_url": "https://api.dev.receipthero.io/api/v1/receipts/5de9f8fc-adf1-438c-b7d9-724423dcec67/finvoice_xml/",
+      "finvoice_pdf_url": "https://api.dev.receipthero.io/api/v1/receipts/5de9f8fc-adf1-438c-b7d9-724423dcec67/finvoice_pdf/",
+      "hero_json_url": "https://api.dev.receipthero.io/api/v1/receipts/5de9f8fc-adf1-438c-b7d9-724423dcec67/hero_json/",
+      "hero_pdf_url": "https://api.dev.receipthero.io/api/v1/receipts/5de9f8fc-adf1-438c-b7d9-724423dcec67/hero_pdf/"
+    },
+    {
+      "uuid": "d960ff5c-8522-41c1-9d72-45e90617ebc0",
+      "date": "2018-04-22T16:28:24.149000Z",
+      "price": 42540,
+      "finvoice_xml_url": "https://api.dev.receipthero.io/api/v1/receipts/d960ff5c-8522-41c1-9d72-45e90617ebc0/finvoice_xml/",
+      "finvoice_pdf_url": "https://api.dev.receipthero.io/api/v1/receipts/d960ff5c-8522-41c1-9d72-45e90617ebc0/finvoice_pdf/",
+      "hero_json_url": "https://api.dev.receipthero.io/api/v1/receipts/d960ff5c-8522-41c1-9d72-45e90617ebc0/hero_json/",
+      "hero_pdf_url": "https://api.dev.receipthero.io/api/v1/receipts/d960ff5c-8522-41c1-9d72-45e90617ebc0/hero_pdf/"
+    },
+    {
+      "uuid": "3bd9d1fe-a8ff-4851-a6d1-7353b57730f8",
+      "date": "2018-09-26T05:42:09.008000Z",
+      "price": 80610,
+      "finvoice_xml_url": "https://api.dev.receipthero.io/api/v1/receipts/3bd9d1fe-a8ff-4851-a6d1-7353b57730f8/finvoice_xml/",
+      "finvoice_pdf_url": "https://api.dev.receipthero.io/api/v1/receipts/3bd9d1fe-a8ff-4851-a6d1-7353b57730f8/finvoice_pdf/",
+      "hero_json_url": "https://api.dev.receipthero.io/api/v1/receipts/3bd9d1fe-a8ff-4851-a6d1-7353b57730f8/hero_json/",
+      "hero_pdf_url": "https://api.dev.receipthero.io/api/v1/receipts/3bd9d1fe-a8ff-4851-a6d1-7353b57730f8/hero_pdf/"
+    },
+    {
+      "uuid": "38037003-1242-4702-8375-c0796671bb93",
+      "date": "2018-04-05T12:50:57.819000Z",
+      "price": 2210,
+      "finvoice_xml_url": "https://api.dev.receipthero.io/api/v1/receipts/38037003-1242-4702-8375-c0796671bb93/finvoice_xml/",
+      "finvoice_pdf_url": "https://api.dev.receipthero.io/api/v1/receipts/38037003-1242-4702-8375-c0796671bb93/finvoice_pdf/",
+      "hero_json_url": "https://api.dev.receipthero.io/api/v1/receipts/38037003-1242-4702-8375-c0796671bb93/hero_json/",
+      "hero_pdf_url": "https://api.dev.receipthero.io/api/v1/receipts/38037003-1242-4702-8375-c0796671bb93/hero_pdf/"
+    },
+    {
+      "uuid": "b081466f-a183-40ad-bf6f-f40873f9068b",
+      "date": "2018-08-16T23:14:47.701000Z",
+      "price": 72160,
+      "finvoice_xml_url": "https://api.dev.receipthero.io/api/v1/receipts/b081466f-a183-40ad-bf6f-f40873f9068b/finvoice_xml/",
+      "finvoice_pdf_url": "https://api.dev.receipthero.io/api/v1/receipts/b081466f-a183-40ad-bf6f-f40873f9068b/finvoice_pdf/",
+      "hero_json_url": "https://api.dev.receipthero.io/api/v1/receipts/b081466f-a183-40ad-bf6f-f40873f9068b/hero_json/",
+      "hero_pdf_url": "https://api.dev.receipthero.io/api/v1/receipts/b081466f-a183-40ad-bf6f-f40873f9068b/hero_pdf/"
+    },
+    {
+      "uuid": "35541c12-a395-48a2-9414-9e150bf70fa3",
+      "date": "2018-01-16T10:18:31.168000Z",
+      "price": 79630,
+      "finvoice_xml_url": "https://api.dev.receipthero.io/api/v1/receipts/35541c12-a395-48a2-9414-9e150bf70fa3/finvoice_xml/",
+      "finvoice_pdf_url": "https://api.dev.receipthero.io/api/v1/receipts/35541c12-a395-48a2-9414-9e150bf70fa3/finvoice_pdf/",
+      "hero_json_url": "https://api.dev.receipthero.io/api/v1/receipts/35541c12-a395-48a2-9414-9e150bf70fa3/hero_json/",
+      "hero_pdf_url": "https://api.dev.receipthero.io/api/v1/receipts/35541c12-a395-48a2-9414-9e150bf70fa3/hero_pdf/"
+    },
+    {
+      "uuid": "0134545e-3a75-4a88-82f3-b1dcd207d16e",
+      "date": "2018-01-25T19:39:43.188000Z",
+      "price": 40500,
+      "finvoice_xml_url": "https://api.dev.receipthero.io/api/v1/receipts/0134545e-3a75-4a88-82f3-b1dcd207d16e/finvoice_xml/",
+      "finvoice_pdf_url": "https://api.dev.receipthero.io/api/v1/receipts/0134545e-3a75-4a88-82f3-b1dcd207d16e/finvoice_pdf/",
+      "hero_json_url": "https://api.dev.receipthero.io/api/v1/receipts/0134545e-3a75-4a88-82f3-b1dcd207d16e/hero_json/",
+      "hero_pdf_url": "https://api.dev.receipthero.io/api/v1/receipts/0134545e-3a75-4a88-82f3-b1dcd207d16e/hero_pdf/"
+    },
+    {
+      "uuid": "ad4e0688-9a9e-4f1b-b8af-a54547d1c6cb",
+      "date": "2018-07-02T06:47:41.040000Z",
+      "price": 14200,
+      "finvoice_xml_url": "https://api.dev.receipthero.io/api/v1/receipts/ad4e0688-9a9e-4f1b-b8af-a54547d1c6cb/finvoice_xml/",
+      "finvoice_pdf_url": "https://api.dev.receipthero.io/api/v1/receipts/ad4e0688-9a9e-4f1b-b8af-a54547d1c6cb/finvoice_pdf/",
+      "hero_json_url": "https://api.dev.receipthero.io/api/v1/receipts/ad4e0688-9a9e-4f1b-b8af-a54547d1c6cb/hero_json/",
+      "hero_pdf_url": "https://api.dev.receipthero.io/api/v1/receipts/ad4e0688-9a9e-4f1b-b8af-a54547d1c6cb/hero_pdf/"
+    },
+    {
+      "uuid": "9882f11b-3019-4c04-9fac-10fb11eb60b5",
+      "date": "2018-04-27T23:28:28.630000Z",
+      "price": 28440,
+      "finvoice_xml_url": "https://api.dev.receipthero.io/api/v1/receipts/9882f11b-3019-4c04-9fac-10fb11eb60b5/finvoice_xml/",
+      "finvoice_pdf_url": "https://api.dev.receipthero.io/api/v1/receipts/9882f11b-3019-4c04-9fac-10fb11eb60b5/finvoice_pdf/",
+      "hero_json_url": "https://api.dev.receipthero.io/api/v1/receipts/9882f11b-3019-4c04-9fac-10fb11eb60b5/hero_json/",
+      "hero_pdf_url": "https://api.dev.receipthero.io/api/v1/receipts/9882f11b-3019-4c04-9fac-10fb11eb60b5/hero_pdf/"
+    },
+    {
+      "uuid": "74d2c1ae-99c2-4fff-94e8-92cdaa2b69fb",
+      "date": "2017-12-10T10:04:11.181000Z",
+      "price": 66200,
+      "finvoice_xml_url": "https://api.dev.receipthero.io/api/v1/receipts/74d2c1ae-99c2-4fff-94e8-92cdaa2b69fb/finvoice_xml/",
+      "finvoice_pdf_url": "https://api.dev.receipthero.io/api/v1/receipts/74d2c1ae-99c2-4fff-94e8-92cdaa2b69fb/finvoice_pdf/",
+      "hero_json_url": "https://api.dev.receipthero.io/api/v1/receipts/74d2c1ae-99c2-4fff-94e8-92cdaa2b69fb/hero_json/",
+      "hero_pdf_url": "https://api.dev.receipthero.io/api/v1/receipts/74d2c1ae-99c2-4fff-94e8-92cdaa2b69fb/hero_pdf/"
+    },
+    {
+      "uuid": "2374f15a-432a-44be-8c7c-44425f741c70",
+      "date": "2018-10-24T16:37:03.157000Z",
+      "price": 32400,
+      "finvoice_xml_url": "https://api.dev.receipthero.io/api/v1/receipts/2374f15a-432a-44be-8c7c-44425f741c70/finvoice_xml/",
+      "finvoice_pdf_url": "https://api.dev.receipthero.io/api/v1/receipts/2374f15a-432a-44be-8c7c-44425f741c70/finvoice_pdf/",
+      "hero_json_url": "https://api.dev.receipthero.io/api/v1/receipts/2374f15a-432a-44be-8c7c-44425f741c70/hero_json/",
+      "hero_pdf_url": "https://api.dev.receipthero.io/api/v1/receipts/2374f15a-432a-44be-8c7c-44425f741c70/hero_pdf/"
+    },
+    {
+      "uuid": "28d13fe9-1325-4620-9275-7285c3edbdbc",
+      "date": "2018-07-12T18:07:07.401000Z",
+      "price": 58800,
+      "finvoice_xml_url": "https://api.dev.receipthero.io/api/v1/receipts/28d13fe9-1325-4620-9275-7285c3edbdbc/finvoice_xml/",
+      "finvoice_pdf_url": "https://api.dev.receipthero.io/api/v1/receipts/28d13fe9-1325-4620-9275-7285c3edbdbc/finvoice_pdf/",
+      "hero_json_url": "https://api.dev.receipthero.io/api/v1/receipts/28d13fe9-1325-4620-9275-7285c3edbdbc/hero_json/",
+      "hero_pdf_url": "https://api.dev.receipthero.io/api/v1/receipts/28d13fe9-1325-4620-9275-7285c3edbdbc/hero_pdf/"
+    },
+    {
+      "uuid": "ed42cac0-ffd4-4c26-977c-6d951ddbdf8c",
+      "date": "2017-12-02T19:49:00.206000Z",
+      "price": 25060,
+      "finvoice_xml_url": "https://api.dev.receipthero.io/api/v1/receipts/ed42cac0-ffd4-4c26-977c-6d951ddbdf8c/finvoice_xml/",
+      "finvoice_pdf_url": "https://api.dev.receipthero.io/api/v1/receipts/ed42cac0-ffd4-4c26-977c-6d951ddbdf8c/finvoice_pdf/",
+      "hero_json_url": "https://api.dev.receipthero.io/api/v1/receipts/ed42cac0-ffd4-4c26-977c-6d951ddbdf8c/hero_json/",
+      "hero_pdf_url": "https://api.dev.receipthero.io/api/v1/receipts/ed42cac0-ffd4-4c26-977c-6d951ddbdf8c/hero_pdf/"
+    },
+    {
+      "uuid": "22732a85-b5aa-44fb-8dfb-8b23e011710c",
+      "date": "2018-03-08T15:15:37.141000Z",
+      "price": 91830,
+      "finvoice_xml_url": "https://api.dev.receipthero.io/api/v1/receipts/22732a85-b5aa-44fb-8dfb-8b23e011710c/finvoice_xml/",
+      "finvoice_pdf_url": "https://api.dev.receipthero.io/api/v1/receipts/22732a85-b5aa-44fb-8dfb-8b23e011710c/finvoice_pdf/",
+      "hero_json_url": "https://api.dev.receipthero.io/api/v1/receipts/22732a85-b5aa-44fb-8dfb-8b23e011710c/hero_json/",
+      "hero_pdf_url": "https://api.dev.receipthero.io/api/v1/receipts/22732a85-b5aa-44fb-8dfb-8b23e011710c/hero_pdf/"
+    },
+    {
+      "uuid": "f4567ef8-5548-41d6-bc17-c876908580de",
+      "date": "2018-09-01T13:56:21.614000Z",
+      "price": 39220,
+      "finvoice_xml_url": "https://api.dev.receipthero.io/api/v1/receipts/f4567ef8-5548-41d6-bc17-c876908580de/finvoice_xml/",
+      "finvoice_pdf_url": "https://api.dev.receipthero.io/api/v1/receipts/f4567ef8-5548-41d6-bc17-c876908580de/finvoice_pdf/",
+      "hero_json_url": "https://api.dev.receipthero.io/api/v1/receipts/f4567ef8-5548-41d6-bc17-c876908580de/hero_json/",
+      "hero_pdf_url": "https://api.dev.receipthero.io/api/v1/receipts/f4567ef8-5548-41d6-bc17-c876908580de/hero_pdf/"
+    },
+    {
+      "uuid": "706e3a9d-44d9-433b-a8e8-df48f7136ac3",
+      "date": "2017-12-13T00:51:53.426000Z",
+      "price": 45150,
+      "finvoice_xml_url": "https://api.dev.receipthero.io/api/v1/receipts/706e3a9d-44d9-433b-a8e8-df48f7136ac3/finvoice_xml/",
+      "finvoice_pdf_url": "https://api.dev.receipthero.io/api/v1/receipts/706e3a9d-44d9-433b-a8e8-df48f7136ac3/finvoice_pdf/",
+      "hero_json_url": "https://api.dev.receipthero.io/api/v1/receipts/706e3a9d-44d9-433b-a8e8-df48f7136ac3/hero_json/",
+      "hero_pdf_url": "https://api.dev.receipthero.io/api/v1/receipts/706e3a9d-44d9-433b-a8e8-df48f7136ac3/hero_pdf/"
+    },
+    {
+      "uuid": "022ec71f-a186-4132-ade1-36bdd9a7f4b9",
+      "date": "2018-09-12T03:55:06.874000Z",
+      "price": 100750,
+      "finvoice_xml_url": "https://api.dev.receipthero.io/api/v1/receipts/022ec71f-a186-4132-ade1-36bdd9a7f4b9/finvoice_xml/",
+      "finvoice_pdf_url": "https://api.dev.receipthero.io/api/v1/receipts/022ec71f-a186-4132-ade1-36bdd9a7f4b9/finvoice_pdf/",
+      "hero_json_url": "https://api.dev.receipthero.io/api/v1/receipts/022ec71f-a186-4132-ade1-36bdd9a7f4b9/hero_json/",
+      "hero_pdf_url": "https://api.dev.receipthero.io/api/v1/receipts/022ec71f-a186-4132-ade1-36bdd9a7f4b9/hero_pdf/"
+    },
+    {
+      "uuid": "67db8743-4a44-4ae5-b599-918fbae4a98a",
+      "date": "2017-12-28T14:06:37.986000Z",
+      "price": 6370,
+      "finvoice_xml_url": "https://api.dev.receipthero.io/api/v1/receipts/67db8743-4a44-4ae5-b599-918fbae4a98a/finvoice_xml/",
+      "finvoice_pdf_url": "https://api.dev.receipthero.io/api/v1/receipts/67db8743-4a44-4ae5-b599-918fbae4a98a/finvoice_pdf/",
+      "hero_json_url": "https://api.dev.receipthero.io/api/v1/receipts/67db8743-4a44-4ae5-b599-918fbae4a98a/hero_json/",
+      "hero_pdf_url": "https://api.dev.receipthero.io/api/v1/receipts/67db8743-4a44-4ae5-b599-918fbae4a98a/hero_pdf/"
+    },
+    {
+      "uuid": "2a7a207d-a21c-456b-913f-c705ce4f170e",
+      "date": "2017-12-23T18:09:43.232000Z",
+      "price": 106800,
+      "finvoice_xml_url": "https://api.dev.receipthero.io/api/v1/receipts/2a7a207d-a21c-456b-913f-c705ce4f170e/finvoice_xml/",
+      "finvoice_pdf_url": "https://api.dev.receipthero.io/api/v1/receipts/2a7a207d-a21c-456b-913f-c705ce4f170e/finvoice_pdf/",
+      "hero_json_url": "https://api.dev.receipthero.io/api/v1/receipts/2a7a207d-a21c-456b-913f-c705ce4f170e/hero_json/",
+      "hero_pdf_url": "https://api.dev.receipthero.io/api/v1/receipts/2a7a207d-a21c-456b-913f-c705ce4f170e/hero_pdf/"
+    },
+    {
+      "uuid": "3b85acf6-2346-49db-bcbd-bf389bacb69f",
+      "date": "2018-08-02T16:29:26.169000Z",
+      "price": 20920,
+      "finvoice_xml_url": "https://api.dev.receipthero.io/api/v1/receipts/3b85acf6-2346-49db-bcbd-bf389bacb69f/finvoice_xml/",
+      "finvoice_pdf_url": "https://api.dev.receipthero.io/api/v1/receipts/3b85acf6-2346-49db-bcbd-bf389bacb69f/finvoice_pdf/",
+      "hero_json_url": "https://api.dev.receipthero.io/api/v1/receipts/3b85acf6-2346-49db-bcbd-bf389bacb69f/hero_json/",
+      "hero_pdf_url": "https://api.dev.receipthero.io/api/v1/receipts/3b85acf6-2346-49db-bcbd-bf389bacb69f/hero_pdf/"
+    },
+    {
+      "uuid": "4875c178-be8b-4966-a341-4ecb193ed11f",
+      "date": "2018-11-16T17:16:13.127000Z",
+      "price": 24840,
+      "finvoice_xml_url": "https://api.dev.receipthero.io/api/v1/receipts/4875c178-be8b-4966-a341-4ecb193ed11f/finvoice_xml/",
+      "finvoice_pdf_url": "https://api.dev.receipthero.io/api/v1/receipts/4875c178-be8b-4966-a341-4ecb193ed11f/finvoice_pdf/",
+      "hero_json_url": "https://api.dev.receipthero.io/api/v1/receipts/4875c178-be8b-4966-a341-4ecb193ed11f/hero_json/",
+      "hero_pdf_url": "https://api.dev.receipthero.io/api/v1/receipts/4875c178-be8b-4966-a341-4ecb193ed11f/hero_pdf/"
+    },
+    {
+      "uuid": "0089526f-1996-4818-bf2e-0f12abe73b1a",
+      "date": "2018-09-21T13:21:23.690000Z",
+      "price": 32280,
+      "finvoice_xml_url": "https://api.dev.receipthero.io/api/v1/receipts/0089526f-1996-4818-bf2e-0f12abe73b1a/finvoice_xml/",
+      "finvoice_pdf_url": "https://api.dev.receipthero.io/api/v1/receipts/0089526f-1996-4818-bf2e-0f12abe73b1a/finvoice_pdf/",
+      "hero_json_url": "https://api.dev.receipthero.io/api/v1/receipts/0089526f-1996-4818-bf2e-0f12abe73b1a/hero_json/",
+      "hero_pdf_url": "https://api.dev.receipthero.io/api/v1/receipts/0089526f-1996-4818-bf2e-0f12abe73b1a/hero_pdf/"
+    },
+    {
+      "uuid": "ca6f0e48-23dd-4c9f-9e21-0a7e4c387e09",
+      "date": "2018-01-12T14:55:28.996000Z",
+      "price": 44080,
+      "finvoice_xml_url": "https://api.dev.receipthero.io/api/v1/receipts/ca6f0e48-23dd-4c9f-9e21-0a7e4c387e09/finvoice_xml/",
+      "finvoice_pdf_url": "https://api.dev.receipthero.io/api/v1/receipts/ca6f0e48-23dd-4c9f-9e21-0a7e4c387e09/finvoice_pdf/",
+      "hero_json_url": "https://api.dev.receipthero.io/api/v1/receipts/ca6f0e48-23dd-4c9f-9e21-0a7e4c387e09/hero_json/",
+      "hero_pdf_url": "https://api.dev.receipthero.io/api/v1/receipts/ca6f0e48-23dd-4c9f-9e21-0a7e4c387e09/hero_pdf/"
+    },
+    {
+      "uuid": "117b7898-9fa2-444b-a0b4-02f35a49fc5d",
+      "date": "2018-05-20T03:44:26.666000Z",
+      "price": 11460,
+      "finvoice_xml_url": "https://api.dev.receipthero.io/api/v1/receipts/117b7898-9fa2-444b-a0b4-02f35a49fc5d/finvoice_xml/",
+      "finvoice_pdf_url": "https://api.dev.receipthero.io/api/v1/receipts/117b7898-9fa2-444b-a0b4-02f35a49fc5d/finvoice_pdf/",
+      "hero_json_url": "https://api.dev.receipthero.io/api/v1/receipts/117b7898-9fa2-444b-a0b4-02f35a49fc5d/hero_json/",
+      "hero_pdf_url": "https://api.dev.receipthero.io/api/v1/receipts/117b7898-9fa2-444b-a0b4-02f35a49fc5d/hero_pdf/"
+    },
+    {
+      "uuid": "a4128d90-ab82-4617-999f-a66169e9f989",
+      "date": "2018-08-10T10:58:51.505000Z",
+      "price": 36490,
+      "finvoice_xml_url": "https://api.dev.receipthero.io/api/v1/receipts/a4128d90-ab82-4617-999f-a66169e9f989/finvoice_xml/",
+      "finvoice_pdf_url": "https://api.dev.receipthero.io/api/v1/receipts/a4128d90-ab82-4617-999f-a66169e9f989/finvoice_pdf/",
+      "hero_json_url": "https://api.dev.receipthero.io/api/v1/receipts/a4128d90-ab82-4617-999f-a66169e9f989/hero_json/",
+      "hero_pdf_url": "https://api.dev.receipthero.io/api/v1/receipts/a4128d90-ab82-4617-999f-a66169e9f989/hero_pdf/"
+    },
+    {
+      "uuid": "2b1fb90e-7d1d-496c-b441-761ec3c91930",
+      "date": "2018-11-04T06:17:57.148000Z",
+      "price": 8640,
+      "finvoice_xml_url": "https://api.dev.receipthero.io/api/v1/receipts/2b1fb90e-7d1d-496c-b441-761ec3c91930/finvoice_xml/",
+      "finvoice_pdf_url": "https://api.dev.receipthero.io/api/v1/receipts/2b1fb90e-7d1d-496c-b441-761ec3c91930/finvoice_pdf/",
+      "hero_json_url": "https://api.dev.receipthero.io/api/v1/receipts/2b1fb90e-7d1d-496c-b441-761ec3c91930/hero_json/",
+      "hero_pdf_url": "https://api.dev.receipthero.io/api/v1/receipts/2b1fb90e-7d1d-496c-b441-761ec3c91930/hero_pdf/"
+    },
+    {
+      "uuid": "335223ae-2a73-44da-994c-bde005c8e716",
+      "date": "2018-08-11T21:07:29.236000Z",
+      "price": 26800,
+      "finvoice_xml_url": "https://api.dev.receipthero.io/api/v1/receipts/335223ae-2a73-44da-994c-bde005c8e716/finvoice_xml/",
+      "finvoice_pdf_url": "https://api.dev.receipthero.io/api/v1/receipts/335223ae-2a73-44da-994c-bde005c8e716/finvoice_pdf/",
+      "hero_json_url": "https://api.dev.receipthero.io/api/v1/receipts/335223ae-2a73-44da-994c-bde005c8e716/hero_json/",
+      "hero_pdf_url": "https://api.dev.receipthero.io/api/v1/receipts/335223ae-2a73-44da-994c-bde005c8e716/hero_pdf/"
+    },
+    {
+      "uuid": "08491bfc-78be-4802-9bcf-c33fd8f86727",
+      "date": "2018-11-01T12:16:24.879000Z",
+      "price": 21830,
+      "finvoice_xml_url": "https://api.dev.receipthero.io/api/v1/receipts/08491bfc-78be-4802-9bcf-c33fd8f86727/finvoice_xml/",
+      "finvoice_pdf_url": "https://api.dev.receipthero.io/api/v1/receipts/08491bfc-78be-4802-9bcf-c33fd8f86727/finvoice_pdf/",
+      "hero_json_url": "https://api.dev.receipthero.io/api/v1/receipts/08491bfc-78be-4802-9bcf-c33fd8f86727/hero_json/",
+      "hero_pdf_url": "https://api.dev.receipthero.io/api/v1/receipts/08491bfc-78be-4802-9bcf-c33fd8f86727/hero_pdf/"
+    },
+    {
+      "uuid": "166c762c-c596-4beb-8489-fbed9e5de3a3",
+      "date": "2017-12-27T22:29:57.986000Z",
+      "price": 50320,
+      "finvoice_xml_url": "https://api.dev.receipthero.io/api/v1/receipts/166c762c-c596-4beb-8489-fbed9e5de3a3/finvoice_xml/",
+      "finvoice_pdf_url": "https://api.dev.receipthero.io/api/v1/receipts/166c762c-c596-4beb-8489-fbed9e5de3a3/finvoice_pdf/",
+      "hero_json_url": "https://api.dev.receipthero.io/api/v1/receipts/166c762c-c596-4beb-8489-fbed9e5de3a3/hero_json/",
+      "hero_pdf_url": "https://api.dev.receipthero.io/api/v1/receipts/166c762c-c596-4beb-8489-fbed9e5de3a3/hero_pdf/"
+    },
+    {
+      "uuid": "c3a9b86b-aae3-45b8-bada-06642c88755a",
+      "date": "2018-11-18T21:58:06.434000Z",
+      "price": 28920,
+      "finvoice_xml_url": "https://api.dev.receipthero.io/api/v1/receipts/c3a9b86b-aae3-45b8-bada-06642c88755a/finvoice_xml/",
+      "finvoice_pdf_url": "https://api.dev.receipthero.io/api/v1/receipts/c3a9b86b-aae3-45b8-bada-06642c88755a/finvoice_pdf/",
+      "hero_json_url": "https://api.dev.receipthero.io/api/v1/receipts/c3a9b86b-aae3-45b8-bada-06642c88755a/hero_json/",
+      "hero_pdf_url": "https://api.dev.receipthero.io/api/v1/receipts/c3a9b86b-aae3-45b8-bada-06642c88755a/hero_pdf/"
+    },
+    {
+      "uuid": "6644d317-ea73-42eb-8c55-ac0fe16c8db3",
+      "date": "2018-08-09T06:00:09.117000Z",
+      "price": 27960,
+      "finvoice_xml_url": "https://api.dev.receipthero.io/api/v1/receipts/6644d317-ea73-42eb-8c55-ac0fe16c8db3/finvoice_xml/",
+      "finvoice_pdf_url": "https://api.dev.receipthero.io/api/v1/receipts/6644d317-ea73-42eb-8c55-ac0fe16c8db3/finvoice_pdf/",
+      "hero_json_url": "https://api.dev.receipthero.io/api/v1/receipts/6644d317-ea73-42eb-8c55-ac0fe16c8db3/hero_json/",
+      "hero_pdf_url": "https://api.dev.receipthero.io/api/v1/receipts/6644d317-ea73-42eb-8c55-ac0fe16c8db3/hero_pdf/"
+    },
+    {
+      "uuid": "8b1b4eb2-2ec5-4fb9-9088-1bb24e2ec5cd",
+      "date": "2018-07-10T09:10:13.694000Z",
+      "price": 17950,
+      "finvoice_xml_url": "https://api.dev.receipthero.io/api/v1/receipts/8b1b4eb2-2ec5-4fb9-9088-1bb24e2ec5cd/finvoice_xml/",
+      "finvoice_pdf_url": "https://api.dev.receipthero.io/api/v1/receipts/8b1b4eb2-2ec5-4fb9-9088-1bb24e2ec5cd/finvoice_pdf/",
+      "hero_json_url": "https://api.dev.receipthero.io/api/v1/receipts/8b1b4eb2-2ec5-4fb9-9088-1bb24e2ec5cd/hero_json/",
+      "hero_pdf_url": "https://api.dev.receipthero.io/api/v1/receipts/8b1b4eb2-2ec5-4fb9-9088-1bb24e2ec5cd/hero_pdf/"
+    },
+    {
+      "uuid": "a4cc68db-412a-4ecd-b9a5-cc82550f1bd3",
+      "date": "2018-03-03T06:47:55.425000Z",
+      "price": 67210,
+      "finvoice_xml_url": "https://api.dev.receipthero.io/api/v1/receipts/a4cc68db-412a-4ecd-b9a5-cc82550f1bd3/finvoice_xml/",
+      "finvoice_pdf_url": "https://api.dev.receipthero.io/api/v1/receipts/a4cc68db-412a-4ecd-b9a5-cc82550f1bd3/finvoice_pdf/",
+      "hero_json_url": "https://api.dev.receipthero.io/api/v1/receipts/a4cc68db-412a-4ecd-b9a5-cc82550f1bd3/hero_json/",
+      "hero_pdf_url": "https://api.dev.receipthero.io/api/v1/receipts/a4cc68db-412a-4ecd-b9a5-cc82550f1bd3/hero_pdf/"
+    },
+    {
+      "uuid": "3cba67a7-aa15-4e42-ad61-3b92aae2064f",
+      "date": "2018-04-26T13:33:10.554000Z",
+      "price": 4570,
+      "finvoice_xml_url": "https://api.dev.receipthero.io/api/v1/receipts/3cba67a7-aa15-4e42-ad61-3b92aae2064f/finvoice_xml/",
+      "finvoice_pdf_url": "https://api.dev.receipthero.io/api/v1/receipts/3cba67a7-aa15-4e42-ad61-3b92aae2064f/finvoice_pdf/",
+      "hero_json_url": "https://api.dev.receipthero.io/api/v1/receipts/3cba67a7-aa15-4e42-ad61-3b92aae2064f/hero_json/",
+      "hero_pdf_url": "https://api.dev.receipthero.io/api/v1/receipts/3cba67a7-aa15-4e42-ad61-3b92aae2064f/hero_pdf/"
+    },
+    {
+      "uuid": "2ceb6062-071e-4200-a18e-73b29e1e3968",
+      "date": "2018-04-15T14:52:53.768000Z",
+      "price": 23820,
+      "finvoice_xml_url": "https://api.dev.receipthero.io/api/v1/receipts/2ceb6062-071e-4200-a18e-73b29e1e3968/finvoice_xml/",
+      "finvoice_pdf_url": "https://api.dev.receipthero.io/api/v1/receipts/2ceb6062-071e-4200-a18e-73b29e1e3968/finvoice_pdf/",
+      "hero_json_url": "https://api.dev.receipthero.io/api/v1/receipts/2ceb6062-071e-4200-a18e-73b29e1e3968/hero_json/",
+      "hero_pdf_url": "https://api.dev.receipthero.io/api/v1/receipts/2ceb6062-071e-4200-a18e-73b29e1e3968/hero_pdf/"
+    },
+    {
+      "uuid": "a3dacc14-ebcb-41b0-8e28-2573437a1b9b",
+      "date": "2018-05-08T18:44:22.797000Z",
+      "price": 70430,
+      "finvoice_xml_url": "https://api.dev.receipthero.io/api/v1/receipts/a3dacc14-ebcb-41b0-8e28-2573437a1b9b/finvoice_xml/",
+      "finvoice_pdf_url": "https://api.dev.receipthero.io/api/v1/receipts/a3dacc14-ebcb-41b0-8e28-2573437a1b9b/finvoice_pdf/",
+      "hero_json_url": "https://api.dev.receipthero.io/api/v1/receipts/a3dacc14-ebcb-41b0-8e28-2573437a1b9b/hero_json/",
+      "hero_pdf_url": "https://api.dev.receipthero.io/api/v1/receipts/a3dacc14-ebcb-41b0-8e28-2573437a1b9b/hero_pdf/"
+    },
+    {
+      "uuid": "299d9597-ef1a-453b-af2b-085fc242fff9",
+      "date": "2018-01-02T13:14:26.264000Z",
+      "price": 76890,
+      "finvoice_xml_url": "https://api.dev.receipthero.io/api/v1/receipts/299d9597-ef1a-453b-af2b-085fc242fff9/finvoice_xml/",
+      "finvoice_pdf_url": "https://api.dev.receipthero.io/api/v1/receipts/299d9597-ef1a-453b-af2b-085fc242fff9/finvoice_pdf/",
+      "hero_json_url": "https://api.dev.receipthero.io/api/v1/receipts/299d9597-ef1a-453b-af2b-085fc242fff9/hero_json/",
+      "hero_pdf_url": "https://api.dev.receipthero.io/api/v1/receipts/299d9597-ef1a-453b-af2b-085fc242fff9/hero_pdf/"
+    },
+    {
+      "uuid": "db363c61-d156-4d87-8425-4a04bc48e8d2",
+      "date": "2018-08-19T09:24:23.343000Z",
+      "price": 52330,
+      "finvoice_xml_url": "https://api.dev.receipthero.io/api/v1/receipts/db363c61-d156-4d87-8425-4a04bc48e8d2/finvoice_xml/",
+      "finvoice_pdf_url": "https://api.dev.receipthero.io/api/v1/receipts/db363c61-d156-4d87-8425-4a04bc48e8d2/finvoice_pdf/",
+      "hero_json_url": "https://api.dev.receipthero.io/api/v1/receipts/db363c61-d156-4d87-8425-4a04bc48e8d2/hero_json/",
+      "hero_pdf_url": "https://api.dev.receipthero.io/api/v1/receipts/db363c61-d156-4d87-8425-4a04bc48e8d2/hero_pdf/"
+    },
+    {
+      "uuid": "da79bd2c-f0e9-4c8d-b3d4-f1e7fb590594",
+      "date": "2018-01-09T13:14:30.944000Z",
+      "price": 76900,
+      "finvoice_xml_url": "https://api.dev.receipthero.io/api/v1/receipts/da79bd2c-f0e9-4c8d-b3d4-f1e7fb590594/finvoice_xml/",
+      "finvoice_pdf_url": "https://api.dev.receipthero.io/api/v1/receipts/da79bd2c-f0e9-4c8d-b3d4-f1e7fb590594/finvoice_pdf/",
+      "hero_json_url": "https://api.dev.receipthero.io/api/v1/receipts/da79bd2c-f0e9-4c8d-b3d4-f1e7fb590594/hero_json/",
+      "hero_pdf_url": "https://api.dev.receipthero.io/api/v1/receipts/da79bd2c-f0e9-4c8d-b3d4-f1e7fb590594/hero_pdf/"
+    },
+    {
+      "uuid": "ac5db31c-696c-49ab-8599-339e156788ef",
+      "date": "2018-11-07T03:10:18.621000Z",
+      "price": 14780,
+      "finvoice_xml_url": "https://api.dev.receipthero.io/api/v1/receipts/ac5db31c-696c-49ab-8599-339e156788ef/finvoice_xml/",
+      "finvoice_pdf_url": "https://api.dev.receipthero.io/api/v1/receipts/ac5db31c-696c-49ab-8599-339e156788ef/finvoice_pdf/",
+      "hero_json_url": "https://api.dev.receipthero.io/api/v1/receipts/ac5db31c-696c-49ab-8599-339e156788ef/hero_json/",
+      "hero_pdf_url": "https://api.dev.receipthero.io/api/v1/receipts/ac5db31c-696c-49ab-8599-339e156788ef/hero_pdf/"
+    },
+    {
+      "uuid": "fb37cabd-8deb-44c2-86be-426bf413d50e",
+      "date": "2018-04-14T22:28:33.444000Z",
+      "price": 65590,
+      "finvoice_xml_url": "https://api.dev.receipthero.io/api/v1/receipts/fb37cabd-8deb-44c2-86be-426bf413d50e/finvoice_xml/",
+      "finvoice_pdf_url": "https://api.dev.receipthero.io/api/v1/receipts/fb37cabd-8deb-44c2-86be-426bf413d50e/finvoice_pdf/",
+      "hero_json_url": "https://api.dev.receipthero.io/api/v1/receipts/fb37cabd-8deb-44c2-86be-426bf413d50e/hero_json/",
+      "hero_pdf_url": "https://api.dev.receipthero.io/api/v1/receipts/fb37cabd-8deb-44c2-86be-426bf413d50e/hero_pdf/"
+    },
+    {
+      "uuid": "6a00cdec-37a2-41c2-bda9-18ecf0d23231",
+      "date": "2018-11-02T15:24:21.064000Z",
+      "price": 80300,
+      "finvoice_xml_url": "https://api.dev.receipthero.io/api/v1/receipts/6a00cdec-37a2-41c2-bda9-18ecf0d23231/finvoice_xml/",
+      "finvoice_pdf_url": "https://api.dev.receipthero.io/api/v1/receipts/6a00cdec-37a2-41c2-bda9-18ecf0d23231/finvoice_pdf/",
+      "hero_json_url": "https://api.dev.receipthero.io/api/v1/receipts/6a00cdec-37a2-41c2-bda9-18ecf0d23231/hero_json/",
+      "hero_pdf_url": "https://api.dev.receipthero.io/api/v1/receipts/6a00cdec-37a2-41c2-bda9-18ecf0d23231/hero_pdf/"
+    },
+    {
+      "uuid": "f13ab0ef-dc70-4709-bc7c-a64ab039387d",
+      "date": "2018-03-23T04:44:57.412000Z",
+      "price": 57720,
+      "finvoice_xml_url": "https://api.dev.receipthero.io/api/v1/receipts/f13ab0ef-dc70-4709-bc7c-a64ab039387d/finvoice_xml/",
+      "finvoice_pdf_url": "https://api.dev.receipthero.io/api/v1/receipts/f13ab0ef-dc70-4709-bc7c-a64ab039387d/finvoice_pdf/",
+      "hero_json_url": "https://api.dev.receipthero.io/api/v1/receipts/f13ab0ef-dc70-4709-bc7c-a64ab039387d/hero_json/",
+      "hero_pdf_url": "https://api.dev.receipthero.io/api/v1/receipts/f13ab0ef-dc70-4709-bc7c-a64ab039387d/hero_pdf/"
+    },
+    {
+      "uuid": "002a7bc3-34ed-4b66-81cf-3f7736372809",
+      "date": "2017-12-13T01:23:29.020000Z",
+      "price": 81020,
+      "finvoice_xml_url": "https://api.dev.receipthero.io/api/v1/receipts/002a7bc3-34ed-4b66-81cf-3f7736372809/finvoice_xml/",
+      "finvoice_pdf_url": "https://api.dev.receipthero.io/api/v1/receipts/002a7bc3-34ed-4b66-81cf-3f7736372809/finvoice_pdf/",
+      "hero_json_url": "https://api.dev.receipthero.io/api/v1/receipts/002a7bc3-34ed-4b66-81cf-3f7736372809/hero_json/",
+      "hero_pdf_url": "https://api.dev.receipthero.io/api/v1/receipts/002a7bc3-34ed-4b66-81cf-3f7736372809/hero_pdf/"
+    },
+    {
+      "uuid": "6c04dc2e-60c4-4184-bac6-1b53509043c4",
+      "date": "2018-03-11T22:01:39.532000Z",
+      "price": 25970,
+      "finvoice_xml_url": "https://api.dev.receipthero.io/api/v1/receipts/6c04dc2e-60c4-4184-bac6-1b53509043c4/finvoice_xml/",
+      "finvoice_pdf_url": "https://api.dev.receipthero.io/api/v1/receipts/6c04dc2e-60c4-4184-bac6-1b53509043c4/finvoice_pdf/",
+      "hero_json_url": "https://api.dev.receipthero.io/api/v1/receipts/6c04dc2e-60c4-4184-bac6-1b53509043c4/hero_json/",
+      "hero_pdf_url": "https://api.dev.receipthero.io/api/v1/receipts/6c04dc2e-60c4-4184-bac6-1b53509043c4/hero_pdf/"
+    },
+    {
+      "uuid": "e9c785bb-8d5d-426c-a34e-aa0465ae4789",
+      "date": "2018-02-16T20:58:53.554000Z",
+      "price": 101350,
+      "finvoice_xml_url": "https://api.dev.receipthero.io/api/v1/receipts/e9c785bb-8d5d-426c-a34e-aa0465ae4789/finvoice_xml/",
+      "finvoice_pdf_url": "https://api.dev.receipthero.io/api/v1/receipts/e9c785bb-8d5d-426c-a34e-aa0465ae4789/finvoice_pdf/",
+      "hero_json_url": "https://api.dev.receipthero.io/api/v1/receipts/e9c785bb-8d5d-426c-a34e-aa0465ae4789/hero_json/",
+      "hero_pdf_url": "https://api.dev.receipthero.io/api/v1/receipts/e9c785bb-8d5d-426c-a34e-aa0465ae4789/hero_pdf/"
+    },
+    {
+      "uuid": "b289530a-346e-4333-8a88-b7d1c3c7a932",
+      "date": "2017-12-21T21:41:56.080000Z",
+      "price": 2310,
+      "finvoice_xml_url": "https://api.dev.receipthero.io/api/v1/receipts/b289530a-346e-4333-8a88-b7d1c3c7a932/finvoice_xml/",
+      "finvoice_pdf_url": "https://api.dev.receipthero.io/api/v1/receipts/b289530a-346e-4333-8a88-b7d1c3c7a932/finvoice_pdf/",
+      "hero_json_url": "https://api.dev.receipthero.io/api/v1/receipts/b289530a-346e-4333-8a88-b7d1c3c7a932/hero_json/",
+      "hero_pdf_url": "https://api.dev.receipthero.io/api/v1/receipts/b289530a-346e-4333-8a88-b7d1c3c7a932/hero_pdf/"
+    },
+    {
+      "uuid": "b428424a-5891-486f-94a8-496e8255b3e0",
+      "date": "2018-08-09T02:49:28.208000Z",
+      "price": 36500,
+      "finvoice_xml_url": "https://api.dev.receipthero.io/api/v1/receipts/b428424a-5891-486f-94a8-496e8255b3e0/finvoice_xml/",
+      "finvoice_pdf_url": "https://api.dev.receipthero.io/api/v1/receipts/b428424a-5891-486f-94a8-496e8255b3e0/finvoice_pdf/",
+      "hero_json_url": "https://api.dev.receipthero.io/api/v1/receipts/b428424a-5891-486f-94a8-496e8255b3e0/hero_json/",
+      "hero_pdf_url": "https://api.dev.receipthero.io/api/v1/receipts/b428424a-5891-486f-94a8-496e8255b3e0/hero_pdf/"
+    },
+    {
+      "uuid": "8528716a-178f-4aa5-a9b1-7f3a640ef48f",
+      "date": "2017-12-29T05:57:05.807000Z",
+      "price": 51500,
+      "finvoice_xml_url": "https://api.dev.receipthero.io/api/v1/receipts/8528716a-178f-4aa5-a9b1-7f3a640ef48f/finvoice_xml/",
+      "finvoice_pdf_url": "https://api.dev.receipthero.io/api/v1/receipts/8528716a-178f-4aa5-a9b1-7f3a640ef48f/finvoice_pdf/",
+      "hero_json_url": "https://api.dev.receipthero.io/api/v1/receipts/8528716a-178f-4aa5-a9b1-7f3a640ef48f/hero_json/",
+      "hero_pdf_url": "https://api.dev.receipthero.io/api/v1/receipts/8528716a-178f-4aa5-a9b1-7f3a640ef48f/hero_pdf/"
+    },
+    {
+      "uuid": "ead3c91a-5912-4587-986d-a2a9dc18d581",
+      "date": "2018-07-16T01:37:17.954000Z",
+      "price": 30870,
+      "finvoice_xml_url": "https://api.dev.receipthero.io/api/v1/receipts/ead3c91a-5912-4587-986d-a2a9dc18d581/finvoice_xml/",
+      "finvoice_pdf_url": "https://api.dev.receipthero.io/api/v1/receipts/ead3c91a-5912-4587-986d-a2a9dc18d581/finvoice_pdf/",
+      "hero_json_url": "https://api.dev.receipthero.io/api/v1/receipts/ead3c91a-5912-4587-986d-a2a9dc18d581/hero_json/",
+      "hero_pdf_url": "https://api.dev.receipthero.io/api/v1/receipts/ead3c91a-5912-4587-986d-a2a9dc18d581/hero_pdf/"
+    },
+    {
+      "uuid": "c7f98ea3-e84b-450c-92ec-a092e200711c",
+      "date": "2018-09-11T10:19:52.508000Z",
+      "price": 11390,
+      "finvoice_xml_url": "https://api.dev.receipthero.io/api/v1/receipts/c7f98ea3-e84b-450c-92ec-a092e200711c/finvoice_xml/",
+      "finvoice_pdf_url": "https://api.dev.receipthero.io/api/v1/receipts/c7f98ea3-e84b-450c-92ec-a092e200711c/finvoice_pdf/",
+      "hero_json_url": "https://api.dev.receipthero.io/api/v1/receipts/c7f98ea3-e84b-450c-92ec-a092e200711c/hero_json/",
+      "hero_pdf_url": "https://api.dev.receipthero.io/api/v1/receipts/c7f98ea3-e84b-450c-92ec-a092e200711c/hero_pdf/"
+    },
+    {
+      "uuid": "1fad9540-e937-4caf-8611-d1d239a26383",
+      "date": "2018-04-04T00:20:45.106000Z",
+      "price": 35460,
+      "finvoice_xml_url": "https://api.dev.receipthero.io/api/v1/receipts/1fad9540-e937-4caf-8611-d1d239a26383/finvoice_xml/",
+      "finvoice_pdf_url": "https://api.dev.receipthero.io/api/v1/receipts/1fad9540-e937-4caf-8611-d1d239a26383/finvoice_pdf/",
+      "hero_json_url": "https://api.dev.receipthero.io/api/v1/receipts/1fad9540-e937-4caf-8611-d1d239a26383/hero_json/",
+      "hero_pdf_url": "https://api.dev.receipthero.io/api/v1/receipts/1fad9540-e937-4caf-8611-d1d239a26383/hero_pdf/"
+    },
+    {
+      "uuid": "a0716997-8228-47d7-b388-a0d677265de5",
+      "date": "2018-03-20T02:04:06.224000Z",
+      "price": 36120,
+      "finvoice_xml_url": "https://api.dev.receipthero.io/api/v1/receipts/a0716997-8228-47d7-b388-a0d677265de5/finvoice_xml/",
+      "finvoice_pdf_url": "https://api.dev.receipthero.io/api/v1/receipts/a0716997-8228-47d7-b388-a0d677265de5/finvoice_pdf/",
+      "hero_json_url": "https://api.dev.receipthero.io/api/v1/receipts/a0716997-8228-47d7-b388-a0d677265de5/hero_json/",
+      "hero_pdf_url": "https://api.dev.receipthero.io/api/v1/receipts/a0716997-8228-47d7-b388-a0d677265de5/hero_pdf/"
+    },
+    {
+      "uuid": "31677dab-eff5-43bb-9584-f7c407e0427d",
+      "date": "2018-11-12T05:11:02.382000Z",
+      "price": 70970,
+      "finvoice_xml_url": "https://api.dev.receipthero.io/api/v1/receipts/31677dab-eff5-43bb-9584-f7c407e0427d/finvoice_xml/",
+      "finvoice_pdf_url": "https://api.dev.receipthero.io/api/v1/receipts/31677dab-eff5-43bb-9584-f7c407e0427d/finvoice_pdf/",
+      "hero_json_url": "https://api.dev.receipthero.io/api/v1/receipts/31677dab-eff5-43bb-9584-f7c407e0427d/hero_json/",
+      "hero_pdf_url": "https://api.dev.receipthero.io/api/v1/receipts/31677dab-eff5-43bb-9584-f7c407e0427d/hero_pdf/"
+    },
+    {
+      "uuid": "1ec3d2b3-aee2-4e36-8023-aa4cd6998af2",
+      "date": "2018-04-08T00:24:49.558000Z",
+      "price": 22540,
+      "finvoice_xml_url": "https://api.dev.receipthero.io/api/v1/receipts/1ec3d2b3-aee2-4e36-8023-aa4cd6998af2/finvoice_xml/",
+      "finvoice_pdf_url": "https://api.dev.receipthero.io/api/v1/receipts/1ec3d2b3-aee2-4e36-8023-aa4cd6998af2/finvoice_pdf/",
+      "hero_json_url": "https://api.dev.receipthero.io/api/v1/receipts/1ec3d2b3-aee2-4e36-8023-aa4cd6998af2/hero_json/",
+      "hero_pdf_url": "https://api.dev.receipthero.io/api/v1/receipts/1ec3d2b3-aee2-4e36-8023-aa4cd6998af2/hero_pdf/"
+    },
+    {
+      "uuid": "1fd81a46-4378-4418-a90f-e59201f982a1",
+      "date": "2018-01-29T01:28:16.617000Z",
+      "price": 33220,
+      "finvoice_xml_url": "https://api.dev.receipthero.io/api/v1/receipts/1fd81a46-4378-4418-a90f-e59201f982a1/finvoice_xml/",
+      "finvoice_pdf_url": "https://api.dev.receipthero.io/api/v1/receipts/1fd81a46-4378-4418-a90f-e59201f982a1/finvoice_pdf/",
+      "hero_json_url": "https://api.dev.receipthero.io/api/v1/receipts/1fd81a46-4378-4418-a90f-e59201f982a1/hero_json/",
+      "hero_pdf_url": "https://api.dev.receipthero.io/api/v1/receipts/1fd81a46-4378-4418-a90f-e59201f982a1/hero_pdf/"
+    },
+    {
+      "uuid": "5e9e45a3-c399-40bf-bb44-4093e1b0fe24",
+      "date": "2018-04-29T00:05:21.450000Z",
+      "price": 84380,
+      "finvoice_xml_url": "https://api.dev.receipthero.io/api/v1/receipts/5e9e45a3-c399-40bf-bb44-4093e1b0fe24/finvoice_xml/",
+      "finvoice_pdf_url": "https://api.dev.receipthero.io/api/v1/receipts/5e9e45a3-c399-40bf-bb44-4093e1b0fe24/finvoice_pdf/",
+      "hero_json_url": "https://api.dev.receipthero.io/api/v1/receipts/5e9e45a3-c399-40bf-bb44-4093e1b0fe24/hero_json/",
+      "hero_pdf_url": "https://api.dev.receipthero.io/api/v1/receipts/5e9e45a3-c399-40bf-bb44-4093e1b0fe24/hero_pdf/"
+    },
+    {
+      "uuid": "dd2e6885-b0fe-4283-88da-652833897797",
+      "date": "2018-03-05T01:25:22.984000Z",
+      "price": 29100,
+      "finvoice_xml_url": "https://api.dev.receipthero.io/api/v1/receipts/dd2e6885-b0fe-4283-88da-652833897797/finvoice_xml/",
+      "finvoice_pdf_url": "https://api.dev.receipthero.io/api/v1/receipts/dd2e6885-b0fe-4283-88da-652833897797/finvoice_pdf/",
+      "hero_json_url": "https://api.dev.receipthero.io/api/v1/receipts/dd2e6885-b0fe-4283-88da-652833897797/hero_json/",
+      "hero_pdf_url": "https://api.dev.receipthero.io/api/v1/receipts/dd2e6885-b0fe-4283-88da-652833897797/hero_pdf/"
+    },
+    {
+      "uuid": "b6d6c0ba-4e2d-4dbe-938f-655e07e6bcc3",
+      "date": "2018-11-23T01:20:12.644000Z",
+      "price": 46320,
+      "finvoice_xml_url": "https://api.dev.receipthero.io/api/v1/receipts/b6d6c0ba-4e2d-4dbe-938f-655e07e6bcc3/finvoice_xml/",
+      "finvoice_pdf_url": "https://api.dev.receipthero.io/api/v1/receipts/b6d6c0ba-4e2d-4dbe-938f-655e07e6bcc3/finvoice_pdf/",
+      "hero_json_url": "https://api.dev.receipthero.io/api/v1/receipts/b6d6c0ba-4e2d-4dbe-938f-655e07e6bcc3/hero_json/",
+      "hero_pdf_url": "https://api.dev.receipthero.io/api/v1/receipts/b6d6c0ba-4e2d-4dbe-938f-655e07e6bcc3/hero_pdf/"
+    },
+    {
+      "uuid": "166a985e-eb47-4f17-be9a-753609165def",
+      "date": "2018-02-15T08:40:49.371000Z",
+      "price": 111230,
+      "finvoice_xml_url": "https://api.dev.receipthero.io/api/v1/receipts/166a985e-eb47-4f17-be9a-753609165def/finvoice_xml/",
+      "finvoice_pdf_url": "https://api.dev.receipthero.io/api/v1/receipts/166a985e-eb47-4f17-be9a-753609165def/finvoice_pdf/",
+      "hero_json_url": "https://api.dev.receipthero.io/api/v1/receipts/166a985e-eb47-4f17-be9a-753609165def/hero_json/",
+      "hero_pdf_url": "https://api.dev.receipthero.io/api/v1/receipts/166a985e-eb47-4f17-be9a-753609165def/hero_pdf/"
+    },
+    {
+      "uuid": "34d30f5e-5120-4563-8ca9-09348f884065",
+      "date": "2018-06-09T06:31:51.279000Z",
+      "price": 68540,
+      "finvoice_xml_url": "https://api.dev.receipthero.io/api/v1/receipts/34d30f5e-5120-4563-8ca9-09348f884065/finvoice_xml/",
+      "finvoice_pdf_url": "https://api.dev.receipthero.io/api/v1/receipts/34d30f5e-5120-4563-8ca9-09348f884065/finvoice_pdf/",
+      "hero_json_url": "https://api.dev.receipthero.io/api/v1/receipts/34d30f5e-5120-4563-8ca9-09348f884065/hero_json/",
+      "hero_pdf_url": "https://api.dev.receipthero.io/api/v1/receipts/34d30f5e-5120-4563-8ca9-09348f884065/hero_pdf/"
+    },
+    {
+      "uuid": "2d6c6bc3-65fa-410b-aacd-9a440d769c46",
+      "date": "2018-03-25T19:16:23.862000Z",
+      "price": 71970,
+      "finvoice_xml_url": "https://api.dev.receipthero.io/api/v1/receipts/2d6c6bc3-65fa-410b-aacd-9a440d769c46/finvoice_xml/",
+      "finvoice_pdf_url": "https://api.dev.receipthero.io/api/v1/receipts/2d6c6bc3-65fa-410b-aacd-9a440d769c46/finvoice_pdf/",
+      "hero_json_url": "https://api.dev.receipthero.io/api/v1/receipts/2d6c6bc3-65fa-410b-aacd-9a440d769c46/hero_json/",
+      "hero_pdf_url": "https://api.dev.receipthero.io/api/v1/receipts/2d6c6bc3-65fa-410b-aacd-9a440d769c46/hero_pdf/"
+    },
+    {
+      "uuid": "584d1273-a591-406f-b58c-f62f2fcdd961",
+      "date": "2018-01-26T07:09:53.050000Z",
+      "price": 400,
+      "finvoice_xml_url": "https://api.dev.receipthero.io/api/v1/receipts/584d1273-a591-406f-b58c-f62f2fcdd961/finvoice_xml/",
+      "finvoice_pdf_url": "https://api.dev.receipthero.io/api/v1/receipts/584d1273-a591-406f-b58c-f62f2fcdd961/finvoice_pdf/",
+      "hero_json_url": "https://api.dev.receipthero.io/api/v1/receipts/584d1273-a591-406f-b58c-f62f2fcdd961/hero_json/",
+      "hero_pdf_url": "https://api.dev.receipthero.io/api/v1/receipts/584d1273-a591-406f-b58c-f62f2fcdd961/hero_pdf/"
+    },
+    {
+      "uuid": "5b9d1ac7-7575-47ec-8a4f-9e8cc24c14fe",
+      "date": "2018-01-16T10:13:18.404000Z",
+      "price": 8760,
+      "finvoice_xml_url": "https://api.dev.receipthero.io/api/v1/receipts/5b9d1ac7-7575-47ec-8a4f-9e8cc24c14fe/finvoice_xml/",
+      "finvoice_pdf_url": "https://api.dev.receipthero.io/api/v1/receipts/5b9d1ac7-7575-47ec-8a4f-9e8cc24c14fe/finvoice_pdf/",
+      "hero_json_url": "https://api.dev.receipthero.io/api/v1/receipts/5b9d1ac7-7575-47ec-8a4f-9e8cc24c14fe/hero_json/",
+      "hero_pdf_url": "https://api.dev.receipthero.io/api/v1/receipts/5b9d1ac7-7575-47ec-8a4f-9e8cc24c14fe/hero_pdf/"
+    },
+    {
+      "uuid": "d0fd0eaa-dcf8-4aca-a556-3ad25241b1f8",
+      "date": "2018-07-09T09:43:41.447000Z",
+      "price": 43920,
+      "finvoice_xml_url": "https://api.dev.receipthero.io/api/v1/receipts/d0fd0eaa-dcf8-4aca-a556-3ad25241b1f8/finvoice_xml/",
+      "finvoice_pdf_url": "https://api.dev.receipthero.io/api/v1/receipts/d0fd0eaa-dcf8-4aca-a556-3ad25241b1f8/finvoice_pdf/",
+      "hero_json_url": "https://api.dev.receipthero.io/api/v1/receipts/d0fd0eaa-dcf8-4aca-a556-3ad25241b1f8/hero_json/",
+      "hero_pdf_url": "https://api.dev.receipthero.io/api/v1/receipts/d0fd0eaa-dcf8-4aca-a556-3ad25241b1f8/hero_pdf/"
+    },
+    {
+      "uuid": "1def22db-8af6-4211-82d2-d01b73610665",
+      "date": "2018-03-23T19:29:54.658000Z",
+      "price": 92110,
+      "finvoice_xml_url": "https://api.dev.receipthero.io/api/v1/receipts/1def22db-8af6-4211-82d2-d01b73610665/finvoice_xml/",
+      "finvoice_pdf_url": "https://api.dev.receipthero.io/api/v1/receipts/1def22db-8af6-4211-82d2-d01b73610665/finvoice_pdf/",
+      "hero_json_url": "https://api.dev.receipthero.io/api/v1/receipts/1def22db-8af6-4211-82d2-d01b73610665/hero_json/",
+      "hero_pdf_url": "https://api.dev.receipthero.io/api/v1/receipts/1def22db-8af6-4211-82d2-d01b73610665/hero_pdf/"
+    },
+    {
+      "uuid": "8e5d8c8f-6052-467d-ae24-e720e7f578bb",
+      "date": "2018-02-22T01:28:16.613000Z",
+      "price": 12900,
+      "finvoice_xml_url": "https://api.dev.receipthero.io/api/v1/receipts/8e5d8c8f-6052-467d-ae24-e720e7f578bb/finvoice_xml/",
+      "finvoice_pdf_url": "https://api.dev.receipthero.io/api/v1/receipts/8e5d8c8f-6052-467d-ae24-e720e7f578bb/finvoice_pdf/",
+      "hero_json_url": "https://api.dev.receipthero.io/api/v1/receipts/8e5d8c8f-6052-467d-ae24-e720e7f578bb/hero_json/",
+      "hero_pdf_url": "https://api.dev.receipthero.io/api/v1/receipts/8e5d8c8f-6052-467d-ae24-e720e7f578bb/hero_pdf/"
+    },
+    {
+      "uuid": "6cf6a13b-f88b-46e9-8508-aa0878a3f8a0",
+      "date": "2018-06-30T05:12:34.984000Z",
+      "price": 83640,
+      "finvoice_xml_url": "https://api.dev.receipthero.io/api/v1/receipts/6cf6a13b-f88b-46e9-8508-aa0878a3f8a0/finvoice_xml/",
+      "finvoice_pdf_url": "https://api.dev.receipthero.io/api/v1/receipts/6cf6a13b-f88b-46e9-8508-aa0878a3f8a0/finvoice_pdf/",
+      "hero_json_url": "https://api.dev.receipthero.io/api/v1/receipts/6cf6a13b-f88b-46e9-8508-aa0878a3f8a0/hero_json/",
+      "hero_pdf_url": "https://api.dev.receipthero.io/api/v1/receipts/6cf6a13b-f88b-46e9-8508-aa0878a3f8a0/hero_pdf/"
+    },
+    {
+      "uuid": "640af9f2-6237-4314-ba31-0c3a15e94ca2",
+      "date": "2018-04-20T03:31:26.432000Z",
+      "price": 82100,
+      "finvoice_xml_url": "https://api.dev.receipthero.io/api/v1/receipts/640af9f2-6237-4314-ba31-0c3a15e94ca2/finvoice_xml/",
+      "finvoice_pdf_url": "https://api.dev.receipthero.io/api/v1/receipts/640af9f2-6237-4314-ba31-0c3a15e94ca2/finvoice_pdf/",
+      "hero_json_url": "https://api.dev.receipthero.io/api/v1/receipts/640af9f2-6237-4314-ba31-0c3a15e94ca2/hero_json/",
+      "hero_pdf_url": "https://api.dev.receipthero.io/api/v1/receipts/640af9f2-6237-4314-ba31-0c3a15e94ca2/hero_pdf/"
+    },
+    {
+      "uuid": "2b3f261b-5ef5-44e9-80d6-1f55cb2aa67b",
+      "date": "2017-12-23T18:23:08.578000Z",
+      "price": 42460,
+      "finvoice_xml_url": "https://api.dev.receipthero.io/api/v1/receipts/2b3f261b-5ef5-44e9-80d6-1f55cb2aa67b/finvoice_xml/",
+      "finvoice_pdf_url": "https://api.dev.receipthero.io/api/v1/receipts/2b3f261b-5ef5-44e9-80d6-1f55cb2aa67b/finvoice_pdf/",
+      "hero_json_url": "https://api.dev.receipthero.io/api/v1/receipts/2b3f261b-5ef5-44e9-80d6-1f55cb2aa67b/hero_json/",
+      "hero_pdf_url": "https://api.dev.receipthero.io/api/v1/receipts/2b3f261b-5ef5-44e9-80d6-1f55cb2aa67b/hero_pdf/"
+    },
+    {
+      "uuid": "47cc6389-ae6e-44de-95dc-bbc261978532",
+      "date": "2018-03-25T14:30:23.194000Z",
+      "price": 23170,
+      "finvoice_xml_url": "https://api.dev.receipthero.io/api/v1/receipts/47cc6389-ae6e-44de-95dc-bbc261978532/finvoice_xml/",
+      "finvoice_pdf_url": "https://api.dev.receipthero.io/api/v1/receipts/47cc6389-ae6e-44de-95dc-bbc261978532/finvoice_pdf/",
+      "hero_json_url": "https://api.dev.receipthero.io/api/v1/receipts/47cc6389-ae6e-44de-95dc-bbc261978532/hero_json/",
+      "hero_pdf_url": "https://api.dev.receipthero.io/api/v1/receipts/47cc6389-ae6e-44de-95dc-bbc261978532/hero_pdf/"
+    }
+  ]
+}
