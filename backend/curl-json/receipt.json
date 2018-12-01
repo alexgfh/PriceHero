@@ -1,0 +1,73 @@
+{
+  "vats": [
+    {
+      "VATRate": 14,
+      "totalVATAmount": 918,
+      "totalAmountExcVAT": 6553,
+      "totalAmountIncVAT": 7470
+    },
+    {
+      "VATRate": 24,
+      "totalVATAmount": 3038,
+      "totalAmountExcVAT": 12661,
+      "totalAmountIncVAT": 15700
+    }
+  ],
+  "merchant": {
+    "name": "",
+    "branch": {
+      "name": "Kutch - Powlowski",
+      "email": "Eddie.Windler@example.org",
+      "phone": "804-830-3227 x32607",
+      "address": {
+        "city": "Liperi",
+        "streetAddress": "Parrenmäki"
+      }
+    },
+    "companyID": "630044-3"
+  },
+  "products": [
+    {
+      "name": "Laptop Battery 6-cell compatible with ACER  AO751-Bw23F AO751-Bw26 AO751-Bw26F AO751h-1061 AO751h-1170 AO751h-1292",
+      "EANCode": 846874029668,
+      "VATRate": 14,
+      "quantity": 3,
+      "VATAmount": 918,
+      "productId": "",
+      "quantityCode": "PCS",
+      "unitPriceIncVAT": 2490,
+      "totalAmountExcVAT": 6553,
+      "totalAmountIncVAT": 7470
+    },
+    {
+      "name": "Plain Lowfat Yogurt",
+      "EANCode": 15700100295,
+      "VATRate": 24,
+      "quantity": 2,
+      "VATAmount": 3038,
+      "productId": "",
+      "quantityCode": "PCS",
+      "unitPriceIncVAT": 7850,
+      "totalAmountExcVAT": 12661,
+      "totalAmountIncVAT": 15700
+    }
+  ],
+  "cardPayment": {
+    "amount": 23170,
+    "cardType": "PaymentCard",
+    "maskedPAN": "555555******4444",
+    "timeStamp": "2018-11-26T12:38:57.344Z",
+    "terminalId": "1234",
+    "unixTimeStamp": 1543235937,
+    "referenceNumber": "0b2da88b-6486-4bad-97b7-eb825012ddf3",
+    "authorizationCode": "HIU456HDDF67FH",
+    "authorizationMethodType": "00948"
+  },
+  "receiptNumber": "23538765968",
+  "totalVATAmount": 24,
+  "currencyISOCode": "EUR",
+  "receiptTimeStamp": "2018-03-25T14:30:23.194Z",
+  "totalPriceExcVAT": 19214,
+  "totalPriceIncVAT": 23170,
+  "receiptUnixTimeStamp": 1528290969
+}

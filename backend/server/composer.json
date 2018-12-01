@@ -1,0 +1,17 @@
+{
+    "name": "pricehero/backend",
+    "description": "app to get data from receiptHero API and upload to firebase",
+    "type": "project",
+    "license": "GPL3",
+    "authors": [
+        {
+            "name": "Eduardo Luis Hofmann",
+            "email": "acustico@tutanota.de"
+        }
+    ],
+    "minimum-stability": "dev",
+    "require": {
+        "kreait/firebase-php": "^4.18",
+        "php" : ">7.2.0"
+    }
+}
