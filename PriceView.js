@@ -14,10 +14,7 @@ class PriceView extends React.Component {
 	  let params = this.props.navigation.state.params;
     return (
     <View>
-    
       <PriceChart EAN={params.EAN} avatar={params.avatar} name={params.name}/>
-		
-      
 	</View>
     )
   }

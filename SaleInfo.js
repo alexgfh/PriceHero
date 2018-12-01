@@ -24,7 +24,7 @@ class SaleInfo extends React.Component {
 			justifyContent: 'center',
 			alignItems: 'stretch',
 		}}>
-		<View style={{flex: 1, backgroundColor: 'powderblue'}}>
+		<View style={{flex: 0.5, backgroundColor: 'powderblue'}}>
 		  <View style={{flex: 1, flexDirection: 'row', backgroundColor: 'powderblue', alignItems: 'center'}}>
 			<Image
 			  style={{width: 80, height: 80}}
@@ -43,8 +43,15 @@ class SaleInfo extends React.Component {
 			</View>
 		  </View>
 		</View>
-        <View style={{flex: 1, backgroundColor: 'skyblue'}} />
-        <View style={{flex: 1, backgroundColor: 'steelblue'}} />    
+        <View style={{flex: 0, justifyContent:'center', alignItems:'stretch',backgroundColor: '#bbddbb'}} />
+        <Image
+			style={{width:360, height:180}}
+			source={require('./Bloco3.jpeg')}
+		/>
+        <View style={{flex: 0, backgroundColor: '#bbddbb'}} />
+        <Image
+			source={require('./Bloco1.jpeg')}
+		/> 
 		</View>
 		)
 	  }

@@ -37,7 +37,10 @@ const StackNavigator = createStackNavigator({
 	  navigationOptions: ({ navigation }) => ({
 		title: `${navigation.state.params.name} 💲`
 	  }) },
-  SaleInfo: { screen: SaleInfo },
+  SaleInfo: { screen: SaleInfo,
+	  navigationOptions: ({ navigation }) => ({
+		title: `SHOP NOW!`
+	  }) },
 },
 {
 	initialRouteName: "Products"
