@@ -21,15 +21,7 @@ import PriceView from './PriceView.js';
 
 
 
-class SaleInfo extends React.Component {
-  render() {
-    return (
-      <View style={{ flex: 1, justifyContent: 'center', alignItems: 'center' }}>
-        <Text>SaleInfo!</Text>
-      </View>
-    );
-  }
-}
+import SaleInfo from './SaleInfo.js';
 
 
 const StackNavigator = createStackNavigator({

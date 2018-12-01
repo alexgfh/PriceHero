@@ -2,50 +2,57 @@ import React from 'react';
 import { StyleSheet, Platform, Image, Text, View, ScrollView } from 'react-native';
 import { withNavigation } from 'react-navigation';
 import { Card, ListItem, Button, Icon } from 'react-native-elements';
-
 import firebase from 'react-native-firebase';
-
 const database = firebase.database();
 
-const products = [
- {
-	EAN: '741414744622',
-    name: 'Plasma TV',
-    avatar: 'https://images.barcodelookup.com/6000/60002272-1.jpg'
- },
- {
-	EAN: '6921815603627',
-    name: 'One Plus 5',
-    avatar: 'https://images.barcodelookup.com/8662/86625814-1.jpg'
- },
- {
-	EAN: '617529207942',
-    name: 'Nikon L320',
-    avatar: 'https://images.barcodelookup.com/219/2194269-1.jpg'
- },
-]
 
-class ProductList extends React.Component {
+let data = {};
 
-  render() {
-    return (
-    <View>
-	  {
-		products.map((l, i) => (
-		  <ListItem
-			key={i}
-			leftAvatar={{ source: { uri: l.avatar }, size:'large' }}
-			title={l.name}
-			onPress={()=>this.props.navigation.navigate('Price', {productSelected: l.EAN, name: l.name, avatar:l.avatar})}
-		  />
-		))
+class SaleInfo extends React.Component {
+	constructor(props) {
+		super(props);
+		this.state = {data: {}};
+		
+	}
+
+	componentDidMount() {
+		const EAN = '745129168636';
+		const TAN = '55342343';
+		this.setState({data: {'e':'r'}});
+		this.setState(function(previousState){
+				let new_state = previousState;
+				new_state.data[EAN]='heyo';
+				return new_state;
+				
+			});
+		let self = this;
+		database.ref('products/'+EAN).once('value')
+		.then(function(snapshot) {
+			let receipt = snapshot.val();
+			
+			console.warn('databased');
+			self.setState(function(previousState){
+				let new_state = previousState;
+				new_state.data['q'] = receipt;
+				return new_state;
+				
+			});
+		});
+	}
+
+	render() {
+		let params = this.props.navigation.state.params;
+		return (
+		<View>
+		  <Text>
+			{this.state.data['q'].name}
+		  </Text>      
+		</View>
+		)
 	  }
-	</View>
-    );
-  }	
 }
 
-export default withNavigation(ProductList);
+export default withNavigation(SaleInfo);
 
 const styles = StyleSheet.create({
   container: {

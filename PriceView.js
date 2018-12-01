@@ -17,6 +17,7 @@ class PriceView extends React.Component {
 		<ListItem
         leftAvatar={{ source: { uri: params.avatar }, size:'large' }}
         title={params.name}
+        onPress={()=>this.props.navigation.navigate('SaleInfo', {params})}
       />
       <PriceChart/>
       
