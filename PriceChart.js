@@ -11,7 +11,7 @@ class PriceChart extends React.Component {
 	
 	constructor(props) {
 		super(props);
-		this.state = {chart_data: [], counter: 0, cheapest_index: -1, cheapest_value: Infinity, cheapest_merchant: null};
+		this.state = {chart_data: [], counter: 0, cheapest_index: -1, cheapest_value: Infinity, merchant: {}};
 	}
 
 	componentDidMount() {
@@ -32,7 +32,10 @@ class PriceChart extends React.Component {
 				if (data_point.y < previousState.cheapest_value) {
 					new_state.cheapest_index = previousState.counter;
 					new_state.cheapest_value = data_point.y;
-					new_state.cheapest_merchant = receipt?.merchant?.name;
+					new_state.merchant.name = receipt?.merchant?.branch?.name;
+					new_state.merchant.city = receipt?.merchant?.branch?.address?.city;
+					new_state.merchant.streetAddress = receipt?.merchant?.branch?.address?.streetAddress;
+					new_state.timestamp = receipt.receiptTimeStamp;
 				}
 				
 				new_state.chart_data.push(data_point);
@@ -75,15 +78,15 @@ class PriceChart extends React.Component {
               yAccessor={({item,index})=>item.y}
               xAccessor={({item,index})=>item.x}
             >
-                <Grid/>
+             <Grid/>
             </LineChart>
             
 		</View>
 		<ListItem
         leftAvatar={{ source: { uri: params.avatar }, size:'large' }}
         title={params.name}
-        subtitle={'BEST DEAL: '+ this.state.cheapest_merchant}
-        onPress={()=>this.props.navigation.navigate('SaleInfo', {params})}
+        subtitle={'BEST DEAL: '+ this.state.merchant.name}
+        onPress={()=>this.props.navigation.navigate('SaleInfo', {listParams: params, merchant: this.state.merchant, timestamp: this.state.timestamp})}
       />
         </View>
         )

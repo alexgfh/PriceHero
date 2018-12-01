@@ -2,6 +2,7 @@ import React from 'react';
 import { StyleSheet, Platform, Image, Text, View, ScrollView } from 'react-native';
 import { withNavigation } from 'react-navigation';
 import { Card, ListItem, Button, Icon } from 'react-native-elements';
+import moment from 'moment';
 import firebase from 'react-native-firebase';
 const database = firebase.database();
 
@@ -11,34 +12,39 @@ let data = {};
 class SaleInfo extends React.Component {
 	constructor(props) {
 		super(props);
-		this.state = {data: {}};
-		
 	}
 
-	componentDidMount() {
-		const EAN = '300450288080';
-		let self = this;
-		const productsRef = database.ref('products/');
-		
-		productsRef.child(EAN).on('value', function(snapshot) {
-			let receipt = snapshot.val();
-			
-			self.setState(function(previousState){
-				let new_state = previousState;
-				new_state.data['q'] = receipt;
-				return new_state;
-				
-			});
-		});
-	}
-
+		//moment.unix(params.timestamp).format('MMMM Do YYYY, h:mm:ss a')
 	render() {
 		let params = this.props.navigation.state.params;
 		return (
-		<View>
-		  <Text>
-			{JSON.stringify(this.state.data['q'])}
-		  </Text>      
+		<View style={{
+			flex: 1,
+			flexDirection: 'column',
+			justifyContent: 'center',
+			alignItems: 'stretch',
+		}}>
+		<View style={{flex: 1, backgroundColor: 'powderblue'}}>
+		  <View style={{flex: 1, flexDirection: 'row', backgroundColor: 'powderblue', alignItems: 'center'}}>
+			<Image
+			  style={{width: 80, height: 80}}
+			  source={{uri: params.listParams.avatar}}
+			/>
+			<View style={{flex: 1, flexDirection: 'column', backgroundColor: 'powderblue', justifyContent: 'flex-start', alignItems: 'flex-start'}}>
+			  <Text style={{fontSize: 18, fontWeight: 'bold'}}>
+			    {params.merchant.name}
+			  </Text>
+			  <Text style={{fontSize: 18, color: 'dimgray'}}>
+			    {params.merchant.streetAddress}
+			  </Text>
+			  <Text style={{fontSize: 14, color: 'dimgray'}}>
+			    {moment(params.timestamp).format('MMMM Do YYYY, h:mm:ss a')}
+			  </Text>
+			</View>
+		  </View>
+		</View>
+        <View style={{flex: 1, backgroundColor: 'skyblue'}} />
+        <View style={{flex: 1, backgroundColor: 'steelblue'}} />    
 		</View>
 		)
 	  }
