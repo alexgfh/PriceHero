@@ -46,10 +46,11 @@ class SaleInfo extends React.Component {
 				style={{width:360, height:180}}
 				source={require('./Bloco3.jpeg')}
 			/>
-			<TouchableHighlight onPress={()=>{Linking.openURL(url)}}>
+			<TouchableHighlight onPress={params.listParams.name==="Plasma TV"?(()=>{Linking.openURL(url)}):(()=>{})}>
 				<Image
 					source={require('./Bloco1.jpeg')}
-				/> 
+				/>
+				
 			</TouchableHighlight>
 		</View>
 		)
